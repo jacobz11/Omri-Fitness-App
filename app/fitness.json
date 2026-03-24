@@ -1,0 +1,3327 @@
+{
+  "Admins": {
+    "PFjCga7lY6tUOI3RmwF6": {
+      "email": "jacobzak11@gmail.com"
+    },
+    "uqWykZwZ2vdzimxhbpmj": {
+      "email": "omriyosef26@gmail.com"
+    }
+  },
+  "Users": {
+    "user_2tfpbbuRWYJ1B5TuTqo9TuIFNTC": {
+      "boarding": {
+        "workoutGoals": ["עלייה במסת שריר", "כוח"],
+        "trainingPlace": "בית",
+        "trainingFrequency": "4",
+        "fullName": "יעקב זק",
+        "height": "170-180",
+        "gender": "זכר",
+        "weight": "70-90",
+        "birthday": "12/03/1997",
+        "trainingDays": ["ראשון", "שלישי", "חמישי", "שבת"]
+      },
+      "clerkUserId": "user_2tfpbbuRWYJ1B5TuTqo9TuIFNTC",
+      "createdAt": "20/03/2026 | 02:34",
+      "trainings": {
+        "training_QVxQINnsRLMZ": {
+          "archiveId": "8O9Lg15rhALhyeIJtjym",
+          "exercises": [
+            {
+              "bodyPartId": "UZqj95okvRJKy6PHuCiw",
+              "numOfSets": 3,
+              "setType": null,
+              "setId": null,
+              "numOfReps": 4,
+              "weight": 5,
+              "exerciseIndex": 0
+            }
+          ],
+          "name": "אימון חדש לארכיוןן"
+        },
+        "training_gSxH7GojMO9N": {
+          "archiveId": "lwbnuuhXX76AXxIYrRPC",
+          "exercises": [
+            {
+              "numOfReps": 4,
+              "bodyPartId": "H30ccqW87vxYpZwpssa2",
+              "numOfSets": 15,
+              "setId": "r6QnUWuh9FHR",
+              "setType": "טריפל סט",
+              "exerciseIndex": 2,
+              "setReps": 4,
+              "weight": 8
+            },
+            {
+              "exerciseIndex": 1,
+              "setReps": 4,
+              "weight": 12,
+              "numOfReps": 4,
+              "numOfSets": 15,
+              "bodyPartId": "UZqj95okvRJKy6PHuCiw",
+              "setId": "r6QnUWuh9FHR",
+              "setType": "טריפל סט"
+            },
+            {
+              "exerciseIndex": 24,
+              "setReps": 4,
+              "bodyPartId": "UZqj95okvRJKy6PHuCiw",
+              "setId": "r6QnUWuh9FHR",
+              "setType": "טריפל סט"
+            },
+            {
+              "setType": "סופר סט",
+              "setId": "cOvLuirKbf63",
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+              "setReps": 4,
+              "exerciseIndex": 0
+            },
+            {
+              "setReps": 4,
+              "exerciseIndex": 1,
+              "setType": "סופר סט",
+              "setId": "cOvLuirKbf63",
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2"
+            },
+            {
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+              "setType": "סופר סט",
+              "setId": "ZDALa1SvuEKc",
+              "exerciseIndex": 8,
+              "setReps": 2
+            },
+            {
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+              "setType": "סופר סט",
+              "setId": "ZDALa1SvuEKc",
+              "exerciseIndex": 18,
+              "setReps": 2
+            }
+          ],
+          "name": "חזה כתפיים ידיים"
+        },
+        "training_m3QsYr32o7pZ": {
+          "name": "כתפיים יד קדמית",
+          "exercises": [
+            {
+              "exerciseIndex": 2,
+              "weight": 8,
+              "numOfReps": 20,
+              "bodyPartId": "H30ccqW87vxYpZwpssa2",
+              "numOfSets": 4,
+              "setId": null,
+              "setType": null
+            },
+            {
+              "numOfReps": 12,
+              "setType": null,
+              "setId": null,
+              "bodyPartId": "H30ccqW87vxYpZwpssa2",
+              "numOfSets": 4,
+              "exerciseIndex": 0,
+              "weight": 20
+            },
+            {
+              "numOfReps": 15,
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+              "numOfSets": 4,
+              "setType": "סופר סט",
+              "setId": "MjqXvfl6PnrF",
+              "exerciseIndex": 4,
+              "setReps": 4,
+              "weight": 12
+            },
+            {
+              "weight": 12,
+              "exerciseIndex": 4,
+              "setReps": 4,
+              "numOfSets": 4,
+              "bodyPartId": "H30ccqW87vxYpZwpssa2",
+              "setType": "סופר סט",
+              "setId": "MjqXvfl6PnrF",
+              "numOfReps": 20
+            },
+            {
+              "exerciseIndex": 0,
+              "setReps": 3,
+              "bodyPartId": "AtPX1zJVTqpIdWJXrId2",
+              "setId": "TIwdqCyIVs13",
+              "setType": "סופר סט"
+            },
+            {
+              "exerciseIndex": 1,
+              "setReps": 3,
+              "bodyPartId": "AtPX1zJVTqpIdWJXrId2",
+              "setType": "סופר סט",
+              "setId": "TIwdqCyIVs13"
+            },
+            {
+              "exerciseIndex": 8,
+              "weight": 26,
+              "numOfReps": 20,
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+              "numOfSets": 4,
+              "setId": null,
+              "setType": null
+            }
+          ],
+          "archiveId": "wVWBWmKzRU7Kc4ApOZyi"
+        },
+        "training_j8vr6iHSCKBn": {
+          "trainingSets": 1,
+          "name": "אימון סט בדיקה",
+          "exercises": [
+            {
+              "weight": 23,
+              "exerciseIndex": 1,
+              "setReps": 1,
+              "numOfSets": 25,
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+              "setType": "סופר סט",
+              "setId": "fyTwUxXrbwlz",
+              "numOfReps": 41
+            },
+            {
+              "exerciseIndex": 0,
+              "setReps": 1,
+              "weight": 11,
+              "numOfReps": 11,
+              "numOfSets": 11,
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+              "setType": "סופר סט",
+              "setId": "fyTwUxXrbwlz"
+            }
+          ]
+        }
+      },
+      "email": "jacobz13397@gmail.com",
+      "imgUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ydGZwYmJqclVnU1RtRW1TRTBKM2xqOXJMM2oifQ",
+      "trainingProgram": {
+        "updatedAt": "2026-03-19T18:14:05.816Z",
+        "dayTrainingMap": {
+          "tuesday": {
+            "trainingId": "training_gSxH7GojMO9N",
+            "day": "שלישי"
+          },
+          "sunday": {
+            "trainingId": "training_m3QsYr32o7pZ",
+            "day": "ראשון"
+          },
+          "saturday": {
+            "trainingId": "training_gSxH7GojMO9N",
+            "day": "שבת"
+          },
+          "thursday": {
+            "trainingId": "training_j8vr6iHSCKBn",
+            "day": "חמישי"
+          }
+        },
+        "endDate": "30/04/2026",
+        "startDate": "19/03/2026"
+      },
+      "lastWeeklyReset": "19/03/2026 | 05:26",
+      "name": "יעקב זק",
+      "trainingsCompleted": 7,
+      "lastUpdated": "2026-03-19T18:24:41.824Z",
+      "graphs": {
+        "training_j8vr6iHSCKBn": {
+          "m3h0HwfN6YYbeJ45oKC2-0": {
+            "reps": [4, 10, 11],
+            "dates": [19.3, 19.3, 19.3],
+            "sets": [2, 10, 11],
+            "weights": [5, 10, 11]
+          },
+          "m3h0HwfN6YYbeJ45oKC2-1": {
+            "weights": [23],
+            "sets": [25],
+            "dates": [19.3],
+            "reps": [41]
+          }
+        },
+        "training_m3QsYr32o7pZ": {
+          "AtPX1zJVTqpIdWJXrId2-1": {
+            "weights": [0],
+            "sets": [0],
+            "dates": [19.3],
+            "reps": [0]
+          },
+          "H30ccqW87vxYpZwpssa2-4": {
+            "dates": [19.3],
+            "reps": [20],
+            "weights": [12],
+            "sets": [4]
+          },
+          "m3h0HwfN6YYbeJ45oKC2-8": {
+            "dates": [19.3],
+            "reps": [20],
+            "weights": [26],
+            "sets": [4]
+          },
+          "AtPX1zJVTqpIdWJXrId2-0": {
+            "weights": [0],
+            "sets": [0],
+            "dates": [19.3],
+            "reps": [0]
+          },
+          "H30ccqW87vxYpZwpssa2-0": {
+            "weights": [20],
+            "sets": [4],
+            "dates": [19.3],
+            "reps": [12]
+          },
+          "m3h0HwfN6YYbeJ45oKC2-4": {
+            "weights": [12],
+            "sets": [4],
+            "dates": [19.3],
+            "reps": [15]
+          },
+          "H30ccqW87vxYpZwpssa2-2": {
+            "sets": [4],
+            "weights": [8],
+            "reps": [20],
+            "dates": [19.3]
+          }
+        },
+        "training_QVxQINnsRLMZ": {
+          "UZqj95okvRJKy6PHuCiw-0": {
+            "dates": [20.3],
+            "reps": [4],
+            "weights": [5],
+            "sets": [3]
+          }
+        },
+        "training_gSxH7GojMO9N": {
+          "m3h0HwfN6YYbeJ45oKC2-8": {
+            "weights": [0],
+            "sets": [0],
+            "dates": [19.3],
+            "reps": [0]
+          },
+          "H30ccqW87vxYpZwpssa2-2": {
+            "weights": [8],
+            "sets": [15],
+            "dates": [19.3],
+            "reps": [4]
+          },
+          "UZqj95okvRJKy6PHuCiw-24": {
+            "dates": [19.3],
+            "reps": [0],
+            "weights": [0],
+            "sets": [0]
+          },
+          "UZqj95okvRJKy6PHuCiw-1": {
+            "sets": [15],
+            "weights": [12],
+            "reps": [4],
+            "dates": [19.3]
+          },
+          "m3h0HwfN6YYbeJ45oKC2-0": {
+            "dates": [19.3],
+            "reps": [0],
+            "weights": [0],
+            "sets": [0]
+          },
+          "m3h0HwfN6YYbeJ45oKC2-18": {
+            "sets": [0],
+            "weights": [0],
+            "reps": [0],
+            "dates": [19.3]
+          },
+          "m3h0HwfN6YYbeJ45oKC2-1": {
+            "sets": [0],
+            "weights": [0],
+            "reps": [0],
+            "dates": [19.3]
+          }
+        }
+      }
+    },
+    "user_2tfsk9JLBHjK5MbE3NJ2Ezlgztn": {
+      "email": "jacobzak11@gmail.com",
+      "imgUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ydGZza0JmdkF4UEJ1Rjk1MExIWURHZGkzNXYifQ",
+      "lastWeeklyReset": "14/03/2026 | 13:02",
+      "clerkUserId": "user_2tfsk9JLBHjK5MbE3NJ2Ezlgztn",
+      "lastUpdated": "2026-03-02T15:37:20.793Z",
+      "trainings": {},
+      "createdAt": "21/03/2026 | 06:18",
+      "name": "jacob zak"
+    },
+    "user_36a6gxeAHPkk9ek4bOunJR1mjee": {
+      "lastWeeklyReset": "15/03/2026 | 21:32",
+      "clerkUserId": "user_36a6gxeAHPkk9ek4bOunJR1mjee",
+      "createdAt": "20/03/2026 | 19:20",
+      "name": "עומרי יוסף",
+      "email": "omriyosef26@gmail.com",
+      "imgUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zNmE2Z3RTbkR0dlpmSGhVZnhkU0ZRWm5oTzkifQ"
+    },
+    "user_37B5FwOffEEsUluLNQUCGtfNb0b": {
+      "email": "matan456540@gmail.com",
+      "imgUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zN0I1RnRmWmFVbktJZ29QMFYzaDcycWdpV2cifQ",
+      "clerkUserId": "user_37B5FwOffEEsUluLNQUCGtfNb0b",
+      "createdAt": "27/01/2026 | 21:41",
+      "name": "נתנאל כחלון"
+    },
+    "user_38d17yqBGeVvIYOPTqih469Dd2e": {
+      "trainings": {},
+      "createdAt": "15/03/2026 | 21:33",
+      "clerkUserId": "user_38d17yqBGeVvIYOPTqih469Dd2e",
+      "boarding": {
+        "gender": "נקבה",
+        "trainingDays": ["ראשון", "שלישי", "חמישי"],
+        "weight": "70-90",
+        "birthday": "12/03/1997",
+        "workoutGoals": ["עלייה במסת שריר", "כוח"],
+        "trainingPlace": "חדר כושר",
+        "height": "150-170",
+        "trainingFrequency": "3",
+        "fullName": "עדן יוסף"
+      },
+      "imgUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zOGQxODNBc21XNXRXT0dmcVE2ZmNxaXV5a3QifQ",
+      "email": "edeny2608@gmail.com",
+      "name": "עדן יוסף",
+      "lastUpdated": "2026-02-13T22:14:59.159Z",
+      "trainingProgram": {
+        "dayTrainingMap": {
+          "training_X43ngEAqVmzh": "שלישי"
+        },
+        "endDate": "12/03/2026",
+        "startDate": "27/02/2026",
+        "updatedAt": "2026-02-27T00:05:53.417Z"
+      },
+      "lastWeeklyReset": "15/03/2026 | 17:58"
+    },
+    "user_38lLcmhtp6osdwfGRrBZMN5RycL": {
+      "clerkUserId": "user_38lLcmhtp6osdwfGRrBZMN5RycL",
+      "boarding": {
+        "fullName": "טל חזן ",
+        "trainingFrequency": "3",
+        "height": "170-180",
+        "trainingPlace": "חדר כושר",
+        "workoutGoals": ["עלייה במסת שריר", "כוח", "ירידה במשקל"],
+        "weight": "90-110",
+        "birthday": "12/03/1997",
+        "trainingDays": ["ראשון", "שלישי", "חמישי"],
+        "gender": "זכר"
+      },
+      "name": "טולי איסקוב",
+      "lastUpdated": "2026-01-26T21:16:28.051Z",
+      "createdAt": "02/02/2026 | 00:55",
+      "email": "toli8290@gmail.com",
+      "imgUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zOGxMY21oU3ZaZ2xOMUVzenNuU3RTMHVzWXAifQ"
+    },
+    "user_38lNLHAeR8Xi4GIOrTGAtxwICVo": {
+      "createdAt": "19/03/2026 | 04:10",
+      "trainings": {
+        "training_vT81aRCvXeXJ": {
+          "name": "כתפיים יד קדמית",
+          "archiveId": "wVWBWmKzRU7Kc4ApOZyi",
+          "exercises": [
+            {
+              "bodyPartId": "H30ccqW87vxYpZwpssa2",
+              "numOfSets": 4,
+              "setId": null,
+              "setType": null,
+              "numOfReps": 20,
+              "weight": 8,
+              "exerciseIndex": 2
+            },
+            {
+              "exerciseIndex": 0,
+              "weight": 20,
+              "numOfReps": 12,
+              "setId": null,
+              "setType": null,
+              "bodyPartId": "H30ccqW87vxYpZwpssa2",
+              "numOfSets": 4
+            },
+            {
+              "setReps": 4,
+              "exerciseIndex": 4,
+              "weight": 12,
+              "numOfReps": 15,
+              "setId": "MjqXvfl6PnrF",
+              "setType": "סופר סט",
+              "numOfSets": 4,
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2"
+            },
+            {
+              "setReps": 4,
+              "exerciseIndex": 4,
+              "weight": 12,
+              "numOfReps": 20,
+              "setId": "MjqXvfl6PnrF",
+              "setType": "סופר סט",
+              "bodyPartId": "H30ccqW87vxYpZwpssa2",
+              "numOfSets": 4
+            },
+            {
+              "setId": "TIwdqCyIVs13",
+              "setType": "סופר סט",
+              "bodyPartId": "AtPX1zJVTqpIdWJXrId2",
+              "setReps": 3,
+              "exerciseIndex": 0
+            },
+            {
+              "exerciseIndex": 1,
+              "setReps": 3,
+              "bodyPartId": "AtPX1zJVTqpIdWJXrId2",
+              "setId": "TIwdqCyIVs13",
+              "setType": "סופר סט"
+            },
+            {
+              "numOfReps": 20,
+              "setType": null,
+              "setId": null,
+              "numOfSets": 4,
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+              "exerciseIndex": 8,
+              "weight": 26
+            }
+          ]
+        },
+        "training_IdHu5riaB95z": {
+          "exercises": [
+            {
+              "exerciseIndex": 0,
+              "weight": 5,
+              "numOfReps": 4,
+              "setId": null,
+              "setType": null,
+              "bodyPartId": "UZqj95okvRJKy6PHuCiw",
+              "numOfSets": 3
+            }
+          ],
+          "archiveId": "8O9Lg15rhALhyeIJtjym",
+          "name": "אימון חדש לארכיוןן"
+        },
+        "training_UPoRM5JwJxNq": {
+          "name": "חזה כתפיים ידיים",
+          "exercises": [
+            {
+              "numOfReps": 4,
+              "numOfSets": 15,
+              "bodyPartId": "H30ccqW87vxYpZwpssa2",
+              "setType": "טריפל סט",
+              "setId": "r6QnUWuh9FHR",
+              "exerciseIndex": 2,
+              "setReps": 4,
+              "weight": 8
+            },
+            {
+              "weight": 12,
+              "setReps": 4,
+              "exerciseIndex": 1,
+              "setType": "טריפל סט",
+              "setId": "r6QnUWuh9FHR",
+              "bodyPartId": "UZqj95okvRJKy6PHuCiw",
+              "numOfSets": 15,
+              "numOfReps": 4
+            },
+            {
+              "setReps": 4,
+              "exerciseIndex": 24,
+              "setType": "טריפל סט",
+              "setId": "r6QnUWuh9FHR",
+              "bodyPartId": "UZqj95okvRJKy6PHuCiw"
+            },
+            {
+              "exerciseIndex": 0,
+              "setReps": 4,
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+              "setType": "סופר סט",
+              "setId": "cOvLuirKbf63"
+            },
+            {
+              "setReps": 4,
+              "exerciseIndex": 1,
+              "setId": "cOvLuirKbf63",
+              "setType": "סופר סט",
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2"
+            },
+            {
+              "exerciseIndex": 8,
+              "setReps": 2,
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+              "setId": "ZDALa1SvuEKc",
+              "setType": "סופר סט"
+            },
+            {
+              "setReps": 2,
+              "exerciseIndex": 18,
+              "setId": "ZDALa1SvuEKc",
+              "setType": "סופר סט",
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2"
+            }
+          ]
+        }
+      },
+      "boarding": {
+        "trainingDays": ["ראשון", "חמישי", "שלישי"],
+        "birthday": "16/09/1999",
+        "weight": "50-70",
+        "gender": "נקבה",
+        "height": "150-170",
+        "fullName": "בת כלשהי",
+        "trainingFrequency": "3",
+        "workoutGoals": ["גמישות", "כוח", "סיבולת"],
+        "trainingPlace": "חדר כושר"
+      },
+      "clerkUserId": "user_38lNLHAeR8Xi4GIOrTGAtxwICVo",
+      "imgUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zOGxOTEVZYnVEeVNtZWpFSng3VlFQeUYzTEUifQ",
+      "email": "bsgrtyt@gmail.com",
+      "lastUpdated": "2026-03-13T03:52:49.094Z",
+      "trainingsCompleted": 1,
+      "name": "בת כלשהי",
+      "lastWeeklyReset": "14/03/2026 | 15:01",
+      "trainingProgram": {
+        "startDate": "15/03/2026",
+        "endDate": "31/03/2026",
+        "dayTrainingMap": {
+          "sunday": {
+            "trainingId": "training_CqU2mlt7iR6h",
+            "day": "ראשון"
+          },
+          "thursday": {
+            "trainingId": "training_CqU2mlt7iR6h",
+            "day": "חמישי"
+          },
+          "tuesday": {
+            "trainingId": "training_CqU2mlt7iR6h",
+            "day": "שלישי"
+          }
+        },
+        "updatedAt": "2026-03-13T03:53:35.942Z"
+      },
+      "graphs": {
+        "training_vT81aRCvXeXJ": {
+          "AtPX1zJVTqpIdWJXrId2-0": {
+            "weights": [0],
+            "sets": [0],
+            "dates": [20.3],
+            "reps": [0]
+          },
+          "m3h0HwfN6YYbeJ45oKC2-8": {
+            "dates": [20.3],
+            "reps": [20],
+            "weights": [26],
+            "sets": [4]
+          },
+          "m3h0HwfN6YYbeJ45oKC2-4": {
+            "weights": [12],
+            "sets": [4],
+            "dates": [20.3],
+            "reps": [15]
+          },
+          "H30ccqW87vxYpZwpssa2-2": {
+            "sets": [4],
+            "weights": [8],
+            "reps": [20],
+            "dates": [20.3]
+          },
+          "H30ccqW87vxYpZwpssa2-0": {
+            "weights": [20],
+            "sets": [4],
+            "dates": [20.3],
+            "reps": [12]
+          },
+          "AtPX1zJVTqpIdWJXrId2-1": {
+            "reps": [0],
+            "dates": [20.3],
+            "sets": [0],
+            "weights": [0]
+          },
+          "H30ccqW87vxYpZwpssa2-4": {
+            "dates": [20.3],
+            "reps": [20],
+            "weights": [12],
+            "sets": [4]
+          }
+        },
+        "training_CqU2mlt7iR6h": {
+          "liuBt91Lmj9hTZwPifvz-4": {
+            "dates": [13.3],
+            "reps": [7],
+            "weights": [6],
+            "sets": [5]
+          },
+          "liuBt91Lmj9hTZwPifvz-6": {
+            "sets": [0],
+            "weights": [0],
+            "reps": [0],
+            "dates": [13.3]
+          },
+          "liuBt91Lmj9hTZwPifvz-5": {
+            "dates": [13.3],
+            "reps": [0],
+            "weights": [0],
+            "sets": [0]
+          }
+        },
+        "training_IdHu5riaB95z": {
+          "UZqj95okvRJKy6PHuCiw-0": {
+            "sets": [3],
+            "weights": [5],
+            "reps": [4],
+            "dates": [20.3]
+          }
+        }
+      }
+    },
+    "user_38lOKvJKjTEAsO8wLsYEUTOzIiv": {
+      "name": "יוסי פדידה",
+      "createdAt": "26/01/2026 | 22:08",
+      "lastUpdated": "2026-01-26T21:17:16.797Z",
+      "boarding": {
+        "trainingDays": ["ראשון", "שלישי", "חמישי"],
+        "weight": "70-90",
+        "birthday": "12/03/1997",
+        "gender": "זכר",
+        "height": "170-180",
+        "fullName": "יוסי פדידה",
+        "trainingFrequency": "3",
+        "workoutGoals": ["עלייה במסת שריר", "כוח", "ירידה במשקל"],
+        "trainingPlace": "חדר כושר"
+      },
+      "email": "yossifadid@gmail.com",
+      "imgUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zOGxPS3RlOURGRUlmVElxb0JISnVzRERqa0cifQ"
+    },
+    "user_3950cleCdW9e7sou8zqnKVAZBbv": {
+      "trainingProgram": {
+        "startDate": "11/03/2026",
+        "dayTrainingMap": {
+          "tuesday": {
+            "trainingId": "HtcwbJaEvrJU5cbCMjIj",
+            "day": "שלישי"
+          },
+          "sunday": {
+            "trainingId": "lwbnuuhXX76AXxIYrRPC",
+            "day": "ראשון"
+          },
+          "thursday": {
+            "trainingId": "FDFwcolApg7J8m23kJv4",
+            "day": "חמישי"
+          }
+        },
+        "endDate": "30/06/2026",
+        "updatedAt": "2026-03-11T23:52:02.188Z"
+      },
+      "lastUpdated": "2026-03-12T00:07:02.346Z",
+      "name": "סתיו אלוני",
+      "graphs": {
+        "training_6FO4tYKx7U3w": {
+          "m3h0HwfN6YYbeJ45oKC2-4": {
+            "sets": [4],
+            "weights": [12],
+            "dates": [12.3],
+            "reps": [15]
+          },
+          "H30ccqW87vxYpZwpssa2-0": {
+            "dates": [12.3],
+            "reps": [12],
+            "sets": [4],
+            "weights": [20]
+          },
+          "H30ccqW87vxYpZwpssa2-2": {
+            "reps": [20],
+            "dates": [12.3],
+            "weights": [8],
+            "sets": [4]
+          },
+          "AtPX1zJVTqpIdWJXrId2-0": {
+            "reps": [0],
+            "dates": [12.3],
+            "sets": [0],
+            "weights": [0]
+          },
+          "m3h0HwfN6YYbeJ45oKC2-8": {
+            "reps": [20],
+            "dates": [12.3],
+            "weights": [26],
+            "sets": [4]
+          },
+          "H30ccqW87vxYpZwpssa2-4": {
+            "weights": [12],
+            "sets": [4],
+            "reps": [20],
+            "dates": [12.3]
+          },
+          "AtPX1zJVTqpIdWJXrId2-1": {
+            "dates": [12.3],
+            "reps": [0],
+            "weights": [0],
+            "sets": [0]
+          }
+        }
+      },
+      "clerkUserId": "user_3950cleCdW9e7sou8zqnKVAZBbv",
+      "boarding": {
+        "birthday": "11/01/2002",
+        "weight": "90-110",
+        "trainingDays": ["ראשון", "שלישי", "חמישי"],
+        "gender": "זכר",
+        "trainingFrequency": "3",
+        "fullName": "סתיו",
+        "height": "170-180",
+        "trainingPlace": "חדר כושר",
+        "workoutGoals": ["ירידה במשקל"]
+      },
+      "trainings": {
+        "training_6FO4tYKx7U3w": {
+          "exercises": [
+            {
+              "weight": 8,
+              "exerciseIndex": 2,
+              "bodyPartId": "H30ccqW87vxYpZwpssa2",
+              "numOfSets": 4,
+              "setId": null,
+              "setType": null,
+              "numOfReps": 20
+            },
+            {
+              "numOfReps": 12,
+              "bodyPartId": "H30ccqW87vxYpZwpssa2",
+              "numOfSets": 4,
+              "setType": null,
+              "setId": null,
+              "exerciseIndex": 0,
+              "weight": 20
+            },
+            {
+              "weight": 12,
+              "exerciseIndex": 4,
+              "setReps": 4,
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+              "numOfSets": 4,
+              "setType": "סופר סט",
+              "setId": "MjqXvfl6PnrF",
+              "numOfReps": 15
+            },
+            {
+              "weight": 12,
+              "setReps": 4,
+              "exerciseIndex": 4,
+              "setId": "MjqXvfl6PnrF",
+              "setType": "סופר סט",
+              "bodyPartId": "H30ccqW87vxYpZwpssa2",
+              "numOfSets": 4,
+              "numOfReps": 20
+            },
+            {
+              "bodyPartId": "AtPX1zJVTqpIdWJXrId2",
+              "setType": "סופר סט",
+              "setId": "TIwdqCyIVs13",
+              "exerciseIndex": 0,
+              "setReps": 3
+            },
+            {
+              "exerciseIndex": 1,
+              "setReps": 3,
+              "bodyPartId": "AtPX1zJVTqpIdWJXrId2",
+              "setId": "TIwdqCyIVs13",
+              "setType": "סופר סט"
+            },
+            {
+              "numOfReps": 20,
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+              "numOfSets": 4,
+              "setId": null,
+              "setType": null,
+              "exerciseIndex": 8,
+              "weight": 26
+            }
+          ],
+          "completedExercises": 6,
+          "trainingSets": 1,
+          "exerciseRepsDone": {
+            "H30ccqW87vxYpZwpssa2-2": 20,
+            "H30ccqW87vxYpZwpssa2-0": 12,
+            "m3h0HwfN6YYbeJ45oKC2-8": 20
+          },
+          "repsCompleted": {
+            "TIwdqCyIVs13": 3,
+            "MjqXvfl6PnrF": 4
+          },
+          "completedExerciseIds": [
+            "H30ccqW87vxYpZwpssa2-2",
+            "H30ccqW87vxYpZwpssa2-0",
+            "m3h0HwfN6YYbeJ45oKC2-4",
+            "AtPX1zJVTqpIdWJXrId2-0",
+            "AtPX1zJVTqpIdWJXrId2-1",
+            "m3h0HwfN6YYbeJ45oKC2-8"
+          ],
+          "name": "כתפיים יד קדמית"
+        }
+      },
+      "createdAt": "02/02/2026 | 00:20",
+      "imgUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zOTUwY2hLZXhSUDBGanJNeEhWTFlQbDQ1NGwifQ",
+      "email": "stavalony@gmail.com"
+    },
+    "user_39l0SkEFoF08p52iTYcBE8dBETD": {
+      "trainingProgram": {
+        "updatedAt": "2026-03-10T14:37:39.607Z",
+        "dayTrainingMap": {
+          "friday": {
+            "trainingId": "FDFwcolApg7J8m23kJv4",
+            "day": "שישי"
+          },
+          "tuesday": {
+            "trainingId": "aB4NpyeLNW0EluetTRws",
+            "day": "שלישי"
+          },
+          "sunday": {
+            "trainingId": "aB4NpyeLNW0EluetTRws",
+            "day": "ראשון"
+          },
+          "thursday": {
+            "trainingId": "aB4NpyeLNW0EluetTRws",
+            "day": "חמישי"
+          }
+        },
+        "startDate": "10/03/2026",
+        "endDate": "31/03/2026"
+      },
+      "name": "רועי בר",
+      "lastUpdated": "2026-03-11T19:14:24.479Z",
+      "graphs": {
+        "training_smgvy4pn0Vuq": {
+          "UZqj95okvRJKy6PHuCiw-1": {
+            "dates": [11.3],
+            "reps": [4],
+            "weights": [12],
+            "sets": [15]
+          },
+          "m3h0HwfN6YYbeJ45oKC2-0": {
+            "reps": [0],
+            "dates": [11.3],
+            "sets": [0],
+            "weights": [0]
+          },
+          "m3h0HwfN6YYbeJ45oKC2-18": {
+            "sets": [0],
+            "weights": [0],
+            "reps": [0],
+            "dates": [11.3]
+          },
+          "m3h0HwfN6YYbeJ45oKC2-1": {
+            "reps": [0],
+            "dates": [11.3],
+            "sets": [0],
+            "weights": [0]
+          },
+          "m3h0HwfN6YYbeJ45oKC2-8": {
+            "weights": [0],
+            "sets": [0],
+            "dates": [11.3],
+            "reps": [0]
+          },
+          "H30ccqW87vxYpZwpssa2-2": {
+            "weights": [8],
+            "sets": [15],
+            "dates": [11.3],
+            "reps": [4]
+          },
+          "UZqj95okvRJKy6PHuCiw-24": {
+            "dates": [11.3],
+            "reps": [0],
+            "weights": [0],
+            "sets": [0]
+          }
+        }
+      },
+      "clerkUserId": "user_39l0SkEFoF08p52iTYcBE8dBETD",
+      "boarding": {
+        "gender": "זכר",
+        "birthday": "10/01/2011",
+        "weight": "50-70",
+        "trainingDays": ["שלישי", "ראשון", "חמישי", "שישי"],
+        "trainingPlace": "חדר כושר",
+        "workoutGoals": ["גמישות", "עלייה במסת שריר", "כוח", "סיבולת"],
+        "trainingFrequency": "4",
+        "fullName": "‏רועי בר יוסף",
+        "height": "170-180"
+      },
+      "trainings": {
+        "training_smgvy4pn0Vuq": {
+          "completedExerciseIds": ["H30ccqW87vxYpZwpssa2-2"],
+          "name": "חזה כתפיים ידיים",
+          "exercises": [
+            {
+              "bodyPartId": "H30ccqW87vxYpZwpssa2",
+              "numOfSets": 15,
+              "setType": "טריפל סט",
+              "setId": "r6QnUWuh9FHR",
+              "numOfReps": 4,
+              "weight": 8,
+              "exerciseIndex": 2,
+              "setReps": 4
+            },
+            {
+              "setId": "r6QnUWuh9FHR",
+              "setType": "טריפל סט",
+              "numOfSets": 15,
+              "bodyPartId": "UZqj95okvRJKy6PHuCiw",
+              "numOfReps": 4,
+              "weight": 12,
+              "setReps": 4,
+              "exerciseIndex": 1
+            },
+            {
+              "setId": "r6QnUWuh9FHR",
+              "setType": "טריפל סט",
+              "bodyPartId": "UZqj95okvRJKy6PHuCiw",
+              "setReps": 4,
+              "exerciseIndex": 24
+            },
+            {
+              "setType": "סופר סט",
+              "setId": "cOvLuirKbf63",
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+              "setReps": 4,
+              "exerciseIndex": 0
+            },
+            {
+              "setReps": 4,
+              "exerciseIndex": 1,
+              "setId": "cOvLuirKbf63",
+              "setType": "סופר סט",
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2"
+            },
+            {
+              "setReps": 2,
+              "exerciseIndex": 8,
+              "setType": "סופר סט",
+              "setId": "ZDALa1SvuEKc",
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2"
+            },
+            {
+              "exerciseIndex": 18,
+              "setReps": 2,
+              "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+              "setType": "סופר סט",
+              "setId": "ZDALa1SvuEKc"
+            }
+          ],
+          "completedExercises": 1,
+          "trainingSets": 1
+        }
+      },
+      "createdAt": "27/02/2026 | 12:16",
+      "imgUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zOWwwU2hkV0VLOUNDNFhXRjN6VGh3UjZjUkIifQ",
+      "email": "roibar1011@gmail.com"
+    },
+    "user_39ln6M9xfeisSoS8e0LH2ZzHtsF": {
+      "boarding": {
+        "trainingDays": ["שני", "ראשון", "שלישי", "רביעי", "שבת", "חמישי"],
+        "birthday": "06/10/2008",
+        "weight": "50-70",
+        "gender": "זכר",
+        "height": "150-170",
+        "trainingFrequency": "6",
+        "fullName": "אדיר אפריגן",
+        "workoutGoals": ["עלייה במסת שריר", "כוח", "סיבולת"],
+        "trainingPlace": "חוץ"
+      },
+      "clerkUserId": "user_39ln6M9xfeisSoS8e0LH2ZzHtsF",
+      "createdAt": "17/02/2026 | 00:05",
+      "trainings": {
+        "training_1Qxj4XYfh474": {
+          "completedExercises": 0,
+          "name": "אימון קרוב לנינג׳ה",
+          "exercises": [
+            {
+              "weight": 15,
+              "exerciseIndex": 0,
+              "setType": "Triple Set",
+              "setId": "CpiB7J1D1kfb",
+              "bodyPartId": "8hooTMvNUAwvg32yhzIG",
+              "numOfSets": 20
+            },
+            {
+              "weight": 15,
+              "exerciseIndex": 1,
+              "setId": "CpiB7J1D1kfb",
+              "setType": "Triple Set",
+              "numOfSets": 20,
+              "bodyPartId": "8hooTMvNUAwvg32yhzIG"
+            },
+            {
+              "setType": "Triple Set",
+              "setId": "CpiB7J1D1kfb",
+              "bodyPartId": "8hooTMvNUAwvg32yhzIG",
+              "numOfSets": 20,
+              "exerciseIndex": 17,
+              "weight": 15
+            }
+          ],
+          "completedExerciseIds": []
+        }
+      },
+      "imgUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zOWxuNlM0VHN3dWxjNzNKcTBRcmtvM3RTSlQifQ",
+      "email": "adir2790@gmail.com",
+      "trainingProgram": {
+        "updatedAt": "2026-02-28T02:03:22.607Z",
+        "startDate": "16/02/2026",
+        "dayTrainingMap": {
+          "thursday": {
+            "trainingId": "training_1Qxj4XYfh474",
+            "day": "חמישי"
+          },
+          "sunday": {
+            "trainingId": "training_1Qxj4XYfh474",
+            "day": "ראשון"
+          },
+          "wednesday": {
+            "trainingId": "training_1Qxj4XYfh474",
+            "day": "רביעי"
+          },
+          "monday": {
+            "trainingId": "training_1Qxj4XYfh474",
+            "day": "שני"
+          },
+          "saturday": {
+            "trainingId": "training_1Qxj4XYfh474",
+            "day": "שבת"
+          },
+          "tuesday": {
+            "trainingId": "training_1Qxj4XYfh474",
+            "day": "שלישי"
+          }
+        },
+        "endDate": "31/03/2026"
+      },
+      "lastUpdated": "2026-03-07T22:24:19.200Z",
+      "name": "אדיר אפריגן"
+    }
+  },
+  "Categories": {
+    "C3yMRjs2yAMJ4TWT3XOg": {
+      "name": "כתפיים",
+      "categories": ["כתף קדמי", "כתף אחורי", "כתף אמצעי"],
+      "id": "H30ccqW87vxYpZwpssa2"
+    },
+    "PnTGrpQCSxP0thXfPG9x": {
+      "categories": ["ארבע ראשי", "אמסטרנג", "תאומים"],
+      "id": "NyytbJM0fzD6YFbVnP5V",
+      "bodyPart": "רגליים"
+    },
+    "QslvngRrsho0wockpkcG": {
+      "categories": ["אמצע", "אלכסונים"],
+      "name": "בטן",
+      "id": "XEMOovNesbwvPcKvQP8O"
+    },
+    "SbfqSM44lDA9HqjDD8SG": {
+      "id": "liuBt91Lmj9hTZwPifvz",
+      "categories": ["אמצע", "עליון", "תחתון", "רגליים"],
+      "name": "ישבן"
+    },
+    "UjkwmOMWfVbvS5XvIGcE": {
+      "id": "UZqj95okvRJKy6PHuCiw",
+      "categories": ["חזה עליון", "חזה תחתון", "חזה אמצע"],
+      "name": "חזה"
+    },
+    "bHifer8dGf9RyZb1hElT": {
+      "name": "טרפזים",
+      "categories": ["עליון", "תחתון"]
+    },
+    "pLP2LSCSSaGUzO9Ua4vQ": {
+      "id": "m3h0HwfN6YYbeJ45oKC2",
+      "categories": ["יד אחורית", "יד קדמית", "אמות"],
+      "name": "ידיים"
+    },
+    "vjiiwfsIpv0B3DJpSNGJ": {
+      "id": "8hooTMvNUAwvg32yhzIG",
+      "categories": ["גב"],
+      "name": "גב"
+    },
+    "yOU4j7fLA22M3dG7lVpb": {
+      "id": "AtPX1zJVTqpIdWJXrId2",
+      "name": "טרפזים",
+      "categories": ["עליון", "אמצע", "תחתון"]
+    }
+  },
+  "Onboarding": {
+    "3UxutLLOvBDqJhu8zW6r": {
+      "id": 2,
+      "title": "נעים מאוד,",
+      "imgUrl": "https://cdn.creazilla.com/emojis/53176/birthday-cake-emoji-clipart-xl.png",
+      "description": "מה תאריך הלידה שלך?",
+      "name": true
+    },
+    "dqWtUpof2ilG29CLMUzK": {
+      "id": 1,
+      "title": "ברוך/ה הבא/ה",
+      "imgUrl": "https://cdn-icons-png.flaticon.com/512/10160/10160217.png",
+      "description": "החלק/י למסך הבא"
+    },
+    "kXiIj4uJfc36RVKzWmBd": {
+      "imgUrl": "https://www.iconpacks.net/icons/2/free-goal-and-target-icon-2854-thumb.png",
+      "goals": "מסת שריר. כוח. ירידה במשקל. בריאות. סיבולת לב ריאה",
+      "description": "בחר/י אחת או יותר מהאפשרויות",
+      "id": 3,
+      "title": "מהן המטרות שלך?"
+    }
+  },
+  "Trainings": {
+    "5g2kWWLCrd6C30vcCNzW": {
+      "createdAt": {
+        "type": "firestore/timestamp/1.0",
+        "seconds": 1773944569,
+        "nanoseconds": 22000000
+      },
+      "name": "אימון סט בדיקה",
+      "originalTrainingKey": "training_j8vr6iHSCKBn",
+      "exercises": [
+        {
+          "weight": 23,
+          "exerciseIndex": 1,
+          "setReps": 1,
+          "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+          "numOfSets": 25,
+          "setId": "fyTwUxXrbwlz",
+          "setType": "סופר סט",
+          "numOfReps": 41
+        },
+        {
+          "setReps": 1,
+          "exerciseIndex": 0,
+          "weight": 11,
+          "numOfReps": 11,
+          "setId": "fyTwUxXrbwlz",
+          "setType": "סופר סט",
+          "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+          "numOfSets": 11
+        }
+      ],
+      "userName": "יעקב זק",
+      "trainingSets": 1,
+      "updatedAt": {
+        "type": "firestore/timestamp/1.0",
+        "seconds": 1773944682,
+        "nanoseconds": 248000000
+      },
+      "userIds": ["user_2tfpbbuRWYJ1B5TuTqo9TuIFNTC"]
+    },
+    "8O9Lg15rhALhyeIJtjym": {
+      "updatedAt": {
+        "type": "firestore/timestamp/1.0",
+        "seconds": 1773973836,
+        "nanoseconds": 340000000
+      },
+      "userIds": [
+        "user_2tfpbbuRWYJ1B5TuTqo9TuIFNTC",
+        "user_38lNLHAeR8Xi4GIOrTGAtxwICVo"
+      ],
+      "trainingSets": 1,
+      "originalTrainingKey": "training_LUti0Pmv5taW",
+      "exercises": [
+        {
+          "numOfSets": 3,
+          "bodyPartId": "UZqj95okvRJKy6PHuCiw",
+          "setId": null,
+          "setType": null,
+          "numOfReps": 4,
+          "weight": 5,
+          "exerciseIndex": 0
+        }
+      ],
+      "name": "אימון חדש לארכיוןן",
+      "createdAt": {
+        "type": "firestore/timestamp/1.0",
+        "seconds": 1773973836,
+        "nanoseconds": 340000000
+      },
+      "isGeneral": true
+    },
+    "FDFwcolApg7J8m23kJv4": {
+      "originalTrainingKey": "training_1Qxj4XYfh474",
+      "exercises": [
+        {
+          "weight": 15,
+          "exerciseIndex": 0,
+          "setType": "Triple Set",
+          "setId": "CpiB7J1D1kfb",
+          "numOfSets": 20,
+          "bodyPartId": "8hooTMvNUAwvg32yhzIG"
+        },
+        {
+          "weight": 15,
+          "exerciseIndex": 1,
+          "setId": "CpiB7J1D1kfb",
+          "setType": "Triple Set",
+          "bodyPartId": "8hooTMvNUAwvg32yhzIG",
+          "numOfSets": 20
+        },
+        {
+          "weight": 15,
+          "exerciseIndex": 17,
+          "setType": "Triple Set",
+          "setId": "CpiB7J1D1kfb",
+          "numOfSets": 20,
+          "bodyPartId": "8hooTMvNUAwvg32yhzIG"
+        }
+      ],
+      "order": 1,
+      "userIds": ["user_39ln6M9xfeisSoS8e0LH2ZzHtsF"],
+      "updatedAt": {
+        "type": "firestore/timestamp/1.0",
+        "seconds": 1773887146,
+        "nanoseconds": 161000000
+      },
+      "userName": "אדיר אפריגן",
+      "name": "אימון קרוב לנינג׳ה",
+      "createdAt": {
+        "type": "firestore/timestamp/1.0",
+        "seconds": 1771279756,
+        "nanoseconds": 392000000
+      }
+    },
+    "lwbnuuhXX76AXxIYrRPC": {
+      "createdAt": {
+        "type": "firestore/timestamp/1.0",
+        "seconds": 1772913849,
+        "nanoseconds": 253000000
+      },
+      "order": 0,
+      "originalTrainingKey": "training_smgvy4pn0Vuq",
+      "trainingSets": 1,
+      "updatedAt": {
+        "type": "firestore/timestamp/1.0",
+        "seconds": 1773887146,
+        "nanoseconds": 147000000
+      },
+      "userIds": ["user_39l0SkEFoF08p52iTYcBE8dBETD"],
+      "name": "חזה כתפיים ידיים",
+      "exercises": [
+        {
+          "setReps": 4,
+          "exerciseIndex": 2,
+          "weight": 8,
+          "numOfReps": 4,
+          "setId": "r6QnUWuh9FHR",
+          "setType": "טריפל סט",
+          "bodyPartId": "H30ccqW87vxYpZwpssa2",
+          "numOfSets": 15
+        },
+        {
+          "weight": 12,
+          "setReps": 4,
+          "exerciseIndex": 1,
+          "setId": "r6QnUWuh9FHR",
+          "setType": "טריפל סט",
+          "numOfSets": 15,
+          "bodyPartId": "UZqj95okvRJKy6PHuCiw",
+          "numOfReps": 4
+        },
+        {
+          "exerciseIndex": 24,
+          "setReps": 4,
+          "bodyPartId": "UZqj95okvRJKy6PHuCiw",
+          "setType": "טריפל סט",
+          "setId": "r6QnUWuh9FHR"
+        },
+        {
+          "exerciseIndex": 0,
+          "setReps": 4,
+          "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+          "setId": "cOvLuirKbf63",
+          "setType": "סופר סט"
+        },
+        {
+          "setId": "cOvLuirKbf63",
+          "setType": "סופר סט",
+          "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+          "setReps": 4,
+          "exerciseIndex": 1
+        },
+        {
+          "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+          "setType": "סופר סט",
+          "setId": "ZDALa1SvuEKc",
+          "exerciseIndex": 8,
+          "setReps": 2
+        },
+        {
+          "setId": "ZDALa1SvuEKc",
+          "setType": "סופר סט",
+          "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+          "setReps": 2,
+          "exerciseIndex": 18
+        }
+      ],
+      "userName": "רועי בר"
+    },
+    "wVWBWmKzRU7Kc4ApOZyi": {
+      "name": "כתפיים יד קדמית",
+      "userName": "סתיו אלוני",
+      "exercises": [
+        {
+          "setType": null,
+          "setId": null,
+          "bodyPartId": "H30ccqW87vxYpZwpssa2",
+          "numOfSets": 4,
+          "numOfReps": 20,
+          "weight": 8,
+          "exerciseIndex": 2
+        },
+        {
+          "exerciseIndex": 0,
+          "weight": 20,
+          "numOfReps": 12,
+          "bodyPartId": "H30ccqW87vxYpZwpssa2",
+          "numOfSets": 4,
+          "setType": null,
+          "setId": null
+        },
+        {
+          "weight": 12,
+          "setReps": 4,
+          "exerciseIndex": 4,
+          "setId": "MjqXvfl6PnrF",
+          "setType": "סופר סט",
+          "numOfSets": 4,
+          "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+          "numOfReps": 15
+        },
+        {
+          "weight": 12,
+          "setReps": 4,
+          "exerciseIndex": 4,
+          "setId": "MjqXvfl6PnrF",
+          "setType": "סופר סט",
+          "bodyPartId": "H30ccqW87vxYpZwpssa2",
+          "numOfSets": 4,
+          "numOfReps": 20
+        },
+        {
+          "setType": "סופר סט",
+          "setId": "TIwdqCyIVs13",
+          "bodyPartId": "AtPX1zJVTqpIdWJXrId2",
+          "setReps": 3,
+          "exerciseIndex": 0
+        },
+        {
+          "setReps": 3,
+          "exerciseIndex": 1,
+          "setId": "TIwdqCyIVs13",
+          "setType": "סופר סט",
+          "bodyPartId": "AtPX1zJVTqpIdWJXrId2"
+        },
+        {
+          "numOfReps": 20,
+          "bodyPartId": "m3h0HwfN6YYbeJ45oKC2",
+          "numOfSets": 4,
+          "setId": null,
+          "setType": null,
+          "exerciseIndex": 8,
+          "weight": 26
+        }
+      ],
+      "createdAt": {
+        "type": "firestore/timestamp/1.0",
+        "seconds": 1773273563,
+        "nanoseconds": 29000000
+      },
+      "userIds": [
+        "user_3950cleCdW9e7sou8zqnKVAZBbv",
+        "user_38lNLHAeR8Xi4GIOrTGAtxwICVo"
+      ],
+      "updatedAt": {
+        "type": "firestore/timestamp/1.0",
+        "seconds": 1773887146,
+        "nanoseconds": 164000000
+      },
+      "trainingSets": 1,
+      "order": 4,
+      "originalTrainingKey": "training_6FO4tYKx7U3w"
+    }
+  },
+  "BodyParts": {
+    "8hooTMvNUAwvg32yhzIG": {
+      "exercises": [
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/X_fa_NKVAAk",
+          "youtubeUrls": ["https://youtube.com/shorts/X_fa_NKVAAk"],
+          "name": "מתח במיד פוזישיין ",
+          "category": "גב",
+          "equipment": "מכונת מינוף",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%9E%D7%AA%D7%97%20%D7%91%D7%9E%D7%99%D7%93%20%D7%A4%D7%95%D7%96%D7%99%D7%A9%D7%99%D7%99%D7%9F%20_1770793655990.jpg?alt=media&token=df8530d9-1215-4623-ba0b-960ab21843a3",
+          "target": "שרירי גב רחבים",
+          "instructions": "התאם את המכונה למשקל ולגובה הרצויים. הנח את הידיים על המקבילות באחיזה צרה, כפות הידיים פונות זו לזו. תלוי על המוטות כשהזרועות במתיחה מלאה והרגליים מעל הקרקע. הפעל את שרירי הגב ומשוך את הגוף כלפי מעלה לכיוון המוטות, תוך שמירה על המרפקים קרוב לגוף. המשך למשוך עד שהסנטר שלך מעל המוטות. עצור לרגע בחלק העליון, ואז הורד לאט את גופך בחזרה למצב ההתחלתי. חזור על התרגיל למספר החזרות הרצוי",
+          "secondaryMuscles": "שרירי הזרוע הקדמיים. שרירי האמה.",
+          "difficulty": "מתחיל",
+          "description": "מתח המקבילות עם אחיזה צרה בסיוע הוא תרגיל גב המבוצע במכונת מינוף שעוזרת למשתמשים לבצע מתחים עם תמיכה נוספת, מה שמקל על השלמת התנועה והתמקדות בטכניקה."
+        },
+        {
+          "target": "שרירי גב רחבים",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%9E%D7%AA%D7%97%20%D7%91%D7%A4%D7%A8%D7%95%D7%A0%D7%A6%D7%99%D7%94%20_1769659492922.jpg?alt=media&token=d158663f-c121-43f9-9300-1276245e16ea",
+          "equipment": "מכונת מינוף",
+          "category": "גב",
+          "name": "מתח בפרונציה ",
+          "youtubeUrls": ["https://www.youtube.com/watch?v=psAoNpfVJrc"],
+          "firstYoutubeUrl": "https://www.youtube.com/watch?v=psAoNpfVJrc",
+          "description": "המתח בסיוע הוא תרגיל מבוסס מכונה שעוזר למשתמשים לבצע מתחים עם תמיכה נוספת, מה שמקל על הרמת משקל הגוף. הוא מכוון בעיקר לשרירי הגב הרחבים ומפעיל גם את השריר הדו-ראשי ושרירי האמה.",
+          "difficulty": "מתחיל",
+          "instructions": "התאם את המכונה להגדרות המשקל והגובה הרצויים. אחוז בידיות באחיזה עליונה, מעט רחבה יותר מרוחב הכתפיים. תלוי כשהזרועות במתיחה מלאה והרגליים מעל הקרקע. הפעל את שרירי הגב ומשוך את גופך כלפי מעלה לכיוון הידיות, תוך שמירה על המרפקים קרוב לגוף. המשך למשוך עד שהסנטר שלך מעל הידיות. עצור לרגע בחלק העליון, ואז הורד לאט את גופך בחזרה למצב ההתחלתי. חזור על התרגיל למספר החזרות הרצוי",
+          "secondaryMuscles": "שרירי הזרוע הקדמיים. שרירי האמה."
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/CwPhxWRwf1w",
+          "youtubeUrls": ["https://youtube.com/shorts/CwPhxWRwf1w"],
+          "name": "בנט אובר פרונציה משקולות יד",
+          "category": "גב",
+          "equipment": "משקולת",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%91%D7%A0%D7%98%20%D7%90%D7%95%D7%91%D7%A8%20%D7%A4%D7%A8%D7%95%D7%A0%D7%A6%D7%99%D7%94%20%D7%9E%D7%A9%D7%A7%D7%95%D7%9C%D7%95%D7%AA%20%D7%99%D7%93_1770902271413.jpg?alt=media&token=f394ea05-fdfe-4029-9b02-7fe4ae5721f7",
+          "target": "גב עליון",
+          "instructions": "עמוד עם הרגליים ברוחב הכתפיים והברכיים מעט כפופות. התכופף קדימה בירכיים תוך שמירה על הגב ישר והחזה למעלה. אחוז במשקולת באחיזה עליונה, הידיים מעט רחבות יותר מרוחב הכתפיים. משוך את המשקולת לכיוון החזה התחתון על ידי משיכת שכמות הכתף לאחור ולחיצת שרירי הגב. עצור לרגע בחלק העליון, ולאחר מכן הורד לאט את המשקולת בחזרה למצב ההתחלתי. חזור על התרגיל למספר החזרות הרצוי",
+          "secondaryMuscles": "שרירי הזרוע הקדמיים. שרירי האמה.",
+          "difficulty": "בינוני",
+          "description": "החתירה הכפופה עם משקולת היא תרגיל מורכב המכוון לגב העליון, הדורש מהמתאמן להתכופף בירכיים ולמשוך משקולת לכיוון הגו. התרגיל מפתח כוח ומסת שריר בגב העליון, בשריר הדו-ראשי ובאמה, ודורש יציבה טובה ויציבות ליבה."
+        },
+        {
+          "difficulty": "בינוני",
+          "name": "מסור טי בר ",
+          "category": "גב",
+          "secondaryMuscles": "שרירי הזרוע הקדמיים. שרירי האמה.",
+          "instructions": "עמוד עם הרגליים ברוחב הכתפיים, הברכיים מעט כפופות, ואחוז במשקולת ביד אחת באחיזה עליונה. התכופף קדימה בירכיים, תוך שמירה על הגב ישר והראש במצב ניטרלי. משוך את המשקולת כלפי מעלה לכיוון החזה, תוך שמירה על המרפק קרוב לגוף ולחיצת שכמות הכתף יחד. הורד את המשקולת בחזרה למצב ההתחלתי בצורה מבוקרת. חזור על התרגיל למספר החזרות הרצוי, ולאחר מכן החלף ליד השנייה",
+          "target": "גב עליון",
+          "equipment": "משקולת",
+          "description": "החתירה הכפופה עם יד אחת היא תרגיל כוח חד-צדדי המכוון לגב העליון, הדורש איזון, תיאום ויציבות ליבה. התרגיל מבוצע על ידי כיפוף בירכיים, שמירה על הגב ישר, וחתירת משקולת עם יד אחת תוך שמירה על מצב יציב."
+        },
+        {
+          "firstYoutubeUrl": "https://www.youtube.com/watch?v=sOnliQoEI8g",
+          "name": "בנט אובר פולי תחתון ",
+          "category": "גב",
+          "youtubeUrls": ["https://www.youtube.com/watch?v=sOnliQoEI8g"],
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%91%D7%A0%D7%98%20%D7%90%D7%95%D7%91%D7%A8%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%AA%D7%97%D7%AA%D7%95%D7%9F%20_1769659595431.jpg?alt=media&token=7eafc75b-d01d-493f-a7ba-27fa105f2990",
+          "equipment": "משקולת",
+          "target": "לאטיסימוס דורסי. טרפז אמצעי.",
+          "secondaryMuscles": "דלתא אחורית. ביצפס.",
+          "instructions": "עמוד עם הרגליים ברוחב הכתפיים והברכיים מעט כפופות. התכופף קדימה במותניים עד שהגוף נמצא בזווית 45 מעלות. אחוז במשקולת עם כפות הידיים פונות אחת לשנייה. משוך את המשקולת לעבר הבטן התחתונה תוך כיווץ שרירי הגב. החזר לאט למצב התחלתי.",
+          "difficulty": "בינוני",
+          "description": "תרגיל מורכב לחיזוק שרירי הגב העליון והאמצעי"
+        },
+        {
+          "target": "לאטיסימוס דורסי. טרס מיג'ור.",
+          "description": "תרגיל פולי עליון עם אחיזה צרה וכפות ידיים במצב סופינציה",
+          "equipment": "מכשיר פולי עליון",
+          "name": "פולי עליון צר בסופינציה",
+          "category": "גב",
+          "difficulty": "קל",
+          "secondaryMuscles": "ביצפס. דלתא אחורית.",
+          "instructions": "שב מול מכשיר הפולי עליון עם הברכיים מקובעות. אחוז בידית באחיזה צרה עם כפות הידיים פונות אליך. משוך את הידית לעבר החזה העליון תוך כיווץ שרירי הגב. החזר לאט לנקודת המוצא תוך שמירה על שליטה. חזור על התנועה."
+        },
+        {
+          "youtubeUrls": ["https://www.youtube.com/watch?v=9FEjYsTcq70"],
+          "category": "גב",
+          "name": "פול אובר כבל",
+          "firstYoutubeUrl": "https://www.youtube.com/watch?v=9FEjYsTcq70",
+          "target": "לאטיסימוס דורסי. סרטוס אנטריור.",
+          "equipment": "מכשיר כבלים",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%A4%D7%95%D7%9C%20%D7%90%D7%95%D7%91%D7%A8%20%D7%9B%D7%91%D7%9C_1769659685273.jpg?alt=media&token=3d5d6281-849b-47c2-bc5c-ac68aa245a8d",
+          "difficulty": "בינוני",
+          "instructions": "עמוד מול מכשיר הכבלים כאשר הכבל מחובר לגובה עליון. אחוז בידית עם שתי הידיים ועבור צעד אחורה. התכופף מעט קדימה ושמור על הידיים ישרות. משוך את הכבל כלפי מטה וקדימה לעבר הירכיים. החזר לאט לנקודת המוצא.",
+          "secondaryMuscles": "חזה תחתון. טריצפס.",
+          "description": "תרגיל בידוד לשרירי הגב העליון באמצעות כבל"
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/tgX2DjL9vhc",
+          "category": "גב",
+          "name": "פול אובר משקולת",
+          "youtubeUrls": ["https://youtube.com/shorts/tgX2DjL9vhc"],
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%A4%D7%95%D7%9C%20%D7%90%D7%95%D7%91%D7%A8%20%D7%9E%D7%A9%D7%A7%D7%95%D7%9C%D7%AA_1771827593160.jpg?alt=media&token=a430087c-2156-45c7-9625-372c8b5a5a49",
+          "equipment": "משקולת",
+          "target": "לאטיסימוס דורסי. סרטוס אנטריור.",
+          "instructions": "שכב על ספסל שטוח כאשר הראש מעבר לקצה הספסל. אחוז במשקולת בשתי הידיים מעל החזה. שמור על המרפקים מעט כפופים והורד את המשקולת מאחורי הראש. משוך את המשקולת חזרה למעלה באותו המסלול. חזור על התנועה.",
+          "secondaryMuscles": "חזה עליון. טריצפס.",
+          "difficulty": "בינוני",
+          "description": "תרגיל פול אובר קלאסי עם משקולת חופשית"
+        },
+        {
+          "target": "טרפז אמצעי. רומבואידים.",
+          "equipment": "מכשיר כבלים",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%A4%D7%95%D7%9C%D7%99%20%D7%97%D7%AA%D7%99%D7%A8%D7%94%20%D7%A6%D7%A8_1771830219233.jpg?alt=media&token=e80b973f-bb15-4c37-9009-70e334db2a15",
+          "youtubeUrls": ["https://youtu.be/8KB7Uq5MIZk"],
+          "category": "גב",
+          "name": "פולי חתירה צר",
+          "firstYoutubeUrl": "https://youtu.be/8KB7Uq5MIZk",
+          "description": "תרגיל חתירה ישיבה עם אחיזה צרה",
+          "difficulty": "קל",
+          "instructions": "שב מול מכשיר החתירה עם הרגליים מקובעות. אחוז בידית הצרה עם כפות הידיים פונות אחת לשנייה. משוך את הידית לעבר הבטן תוך כיווץ שרירי הגב. שמור על הגב ישר וההרכבות לאחור. החזר לאט לנקודת המוצא.",
+          "secondaryMuscles": "ביצפס. דלתא אחורית."
+        },
+        {
+          "description": "תרגיל חתירה ישיבה עם אחיזה רחבה",
+          "equipment": "מכשיר כבלים",
+          "target": "טרפז אמצעי. רומבואידים.",
+          "secondaryMuscles": "דלתא אחורית. ביצפס.",
+          "instructions": "שב מול מכשיר החתירה עם הרגליים מקובעות. אחוז בידית הרחבה עם כפות הידיים פונות כלפי מטה. משוך את הידית לעבר החזה התחתון. כווץ את שרירי הגב בנקודה הסופית. החזר לאט תוך שמירה על שליטה.",
+          "name": "פולי חתירה רחב",
+          "category": "גב",
+          "difficulty": "בינוני"
+        },
+        {
+          "secondaryMuscles": "דלתא אחורית. טרפז.",
+          "instructions": "שב מול מכשיר הפולי עליון עם הברכיים מקובעות. אחוז בידית באחיזה רחבה. משוך את הידית לעבר החלק האחורי של הצוואר. כווץ את שרירי הגב בנקודה התחתונה. החזר לאט לנקודת המוצא.",
+          "difficulty": "מתקדם",
+          "name": "פולי עליון מאחורי הגב",
+          "category": "גב",
+          "equipment": "מכשיר פולי עליון",
+          "description": "משיכת פולי עליון מאחורי הצוואר - תרגיל מתקדם",
+          "target": "לאטיסימוס דורסי. טרס מיג'ור."
+        },
+        {
+          "name": "מסור יד יד",
+          "category": "גב",
+          "difficulty": "בינוני",
+          "instructions": "הנח יד אחת וברך אחת על ספסל. אחוז במשקולת עם היד החופשית. משוך את המשקולת לעבר הירך תוך כיווץ שרירי הגב. שמור על הגב ישר לאורך התרגיל. החזר לאט למצב התחלתי וחלף צד.",
+          "secondaryMuscles": "ביצפס. דלתא אחורית.",
+          "target": "לאטיסימוס דורסי. טרפז.",
+          "description": "תרגיל חתירה חד צדדי למיקוד בצד אחד של הגב",
+          "equipment": "משקולת"
+        },
+        {
+          "instructions": "עמוד מעל מוט הטי בר עם רגליים ברוחב הכתפיים. התכופף קדימה והחזק במוט או בידית. משוך את המוט לעבר החזה התחתון. כווץ את שרירי הגב בנקודה העליונה. החזר לאט תוך שמירה על הגב ישר.",
+          "secondaryMuscles": "ביצפס. דלתא אחורית.",
+          "category": "גב",
+          "name": "טי בר",
+          "difficulty": "בינוני",
+          "description": "תרגיל חתירה מורכב עם מוט טי בר",
+          "equipment": "מוט טי בר",
+          "target": "לאטיסימוס דורסי. טרפז אמצעי."
+        },
+        {
+          "target": "לאטיסימוס דורסי. רומבואידים.",
+          "equipment": "מכונת טי בר",
+          "description": "תרגיל חתירה במכונת טי בר עם תמיכה לחזה",
+          "difficulty": "קל",
+          "category": "גב",
+          "name": "טי בר מכונה",
+          "instructions": "שכב על המכונה עם החזה צמוד למשטח. אחוז בידיות באחיזה נוחה. משוך את הידיות לעבר החזה תוך כיווץ שרירי הגב. שמור על המרפקים קרובים לגוף. החזר לאט תוך שליטה מלאה.",
+          "secondaryMuscles": "ביצפס. דלתא אחורית."
+        },
+        {
+          "firstYoutubeUrl": "https://youtu.be/4rNB_-iqS20",
+          "category": "גב",
+          "name": "פולי עליון רחב גב",
+          "youtubeUrls": ["https://youtu.be/4rNB_-iqS20"],
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%A4%D7%95%D7%9C%D7%99%20%D7%A2%D7%9C%D7%99%D7%95%D7%9F%20%D7%A8%D7%97%D7%91%20%D7%92%D7%91_1771831593844.jpg?alt=media&token=d1ffe839-1910-4068-9b48-012fde1446d3",
+          "equipment": "מכשיר פולי עליון",
+          "target": "לאטיסימוס דורסי. טרס מיג'ור.",
+          "secondaryMuscles": "ביצפס. טרפז.",
+          "instructions": "שב מול מכשיר הפולי עליון עם הברכיים מקובעות. אחוז בידית באחיזה רחבה. משוך את הידית לעבר החזה העליון. כווץ את שרירי הגב והחזק לשנייה. החזר לאט לנקודת המוצא תוך שליטה.",
+          "difficulty": "קל",
+          "description": "משיכת פולי עליון קלאסית עם אחיזה רחבה"
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/6vvgtTeJRG0",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/6vvgtTeJRG0",
+            "https://youtube.com/shorts/pQrWORL_UgA",
+            "https://youtube.com/shorts/w80xnW_GUpU"
+          ],
+          "name": "פול אובר פלוס בטן",
+          "category": "גב",
+          "equipment": "מכשיר כבלים",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%A4%D7%95%D7%9C%20%D7%90%D7%95%D7%91%D7%A8%20%D7%A4%D7%9C%D7%95%D7%A1%20%D7%91%D7%98%D7%9F_1771828093118.jpg?alt=media&token=1bcb7cb9-31f1-4667-abdc-9e2d11318281",
+          "target": "לאטיסימוס דורסי. רקטוס אבדומינוס.",
+          "secondaryMuscles": "בטן. חזה תחתון.",
+          "instructions": "עמוד מול מכשיר הכבלים עם הכבל בגובה עליון. אחוז בידית ועבור צעד אחורה. בצע פול אובר תוך כפיפת הגוף קדימה. כווץ את שרירי הבטן בסוף התנועה. החזר לאט לנקודת המוצא.",
+          "difficulty": "מתקדם",
+          "description": "תרגיל משולב לגב עליון ושרירי הבטן"
+        },
+        {
+          "firstYoutubeUrl": "https://www.youtube.com/watch?v=M2eEK-c-OiA",
+          "youtubeUrls": ["https://www.youtube.com/watch?v=M2eEK-c-OiA"],
+          "name": "מתח סופינציה",
+          "category": "גב",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%9E%D7%AA%D7%97%20%D7%A1%D7%95%D7%A4%D7%99%D7%A0%D7%A6%D7%99%D7%94_1769659876557.jpg?alt=media&token=8a94cfc7-4e8a-4570-9417-a1048764edc2",
+          "target": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "description": ""
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/hJtI0_IRNPQ",
+          "name": "מתח רחב פרונציה",
+          "category": "גב",
+          "youtubeUrls": ["https://youtube.com/shorts/hJtI0_IRNPQ"],
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%9E%D7%AA%D7%97%20%D7%A8%D7%97%D7%91%20%D7%A4%D7%A8%D7%95%D7%A0%D7%A6%D7%99%D7%94_1770794036017.jpg?alt=media&token=39b6281e-3059-4939-ad35-c0431deee9e1",
+          "equipment": "",
+          "target": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "description": ""
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/AG9d_u-HM9U",
+          "youtubeUrls": ["https://youtube.com/shorts/AG9d_u-HM9U"],
+          "category": "",
+          "name": "בנט אובר סופינציה משקולות יד",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%91%D7%A0%D7%98%20%D7%90%D7%95%D7%91%D7%A8%20%D7%A1%D7%95%D7%A4%D7%99%D7%A0%D7%A6%D7%99%D7%94%20%D7%9E%D7%A9%D7%A7%D7%95%D7%9C%D7%95%D7%AA%20%D7%99%D7%93_1770902361411.jpg?alt=media&token=366303f4-bc81-4ef1-9dee-e6f4814d7222",
+          "target": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "description": ""
+        },
+        {
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%9B%D7%A4%D7%99%D7%A4%D7%AA%20%D7%92%D7%91_1770902445338.jpg?alt=media&token=d90cb718-896c-4167-9a85-db9c3cddb610",
+          "equipment": "",
+          "name": "כפיפת גב",
+          "category": "",
+          "youtubeUrls": ["https://youtube.com/shorts/xp-cpAZtbmw"],
+          "firstYoutubeUrl": "https://youtube.com/shorts/xp-cpAZtbmw",
+          "description": "",
+          "difficulty": "",
+          "secondaryMuscles": "",
+          "instructions": ""
+        },
+        {
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "description": "",
+          "youtubeUrls": ["https://youtube.com/shorts/ARj0Fnj261k"],
+          "category": "",
+          "name": "בנט אובר בסופינציה",
+          "firstYoutubeUrl": "https://youtube.com/shorts/ARj0Fnj261k",
+          "target": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%91%D7%A0%D7%98%20%D7%90%D7%95%D7%91%D7%A8%20%D7%91%D7%A1%D7%95%D7%A4%D7%99%D7%A0%D7%A6%D7%99%D7%94_1771830796602.jpg?alt=media&token=5f02c44c-24cb-484a-ae47-8ffb204da40a"
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/B393bAiRgsk",
+          "category": "",
+          "name": "בנט אובר מכונה",
+          "youtubeUrls": ["https://youtube.com/shorts/B393bAiRgsk"],
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%91%D7%A0%D7%98%20%D7%90%D7%95%D7%91%D7%A8%20%D7%9E%D7%9B%D7%95%D7%A0%D7%94_1771831252820.jpg?alt=media&token=60c84e5a-a74d-437f-9952-743fea73541c",
+          "equipment": "",
+          "target": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "description": ""
+        },
+        {
+          "description": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%A4%D7%95%D7%9C%D7%99%20%D7%A2%D7%9C%D7%99%D7%95%D7%9F%20%D7%91%D7%A1%D7%95%D7%A4%D7%99%D7%A0%D7%A6%D7%99%D7%94%20%D7%92%D7%91_1771831380367.jpg?alt=media&token=453cb81a-bb88-4f02-a296-a983e6fc6781",
+          "target": "",
+          "firstYoutubeUrl": "https://youtu.be/oriIRbcqrEc",
+          "youtubeUrls": ["https://youtu.be/oriIRbcqrEc"],
+          "category": "",
+          "name": "פולי עליון בסופינציה גב"
+        },
+        {
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%92%D7%91%2Fthumbnail_%D7%A4%D7%95%D7%9C%D7%99%20%D7%A2%D7%9C%D7%99%D7%95%D7%9F%20%D7%A6%D7%A8%20%D7%A4%D7%A8%D7%95%D7%A0%D7%A6%D7%99%D7%94%20%D7%92%D7%91_1771831467923.jpg?alt=media&token=a6df6de4-6c21-4eea-9ee6-d88a9210dd8a",
+          "equipment": "",
+          "target": "",
+          "firstYoutubeUrl": "https://youtu.be/q2PAYWt7Uxc",
+          "category": "",
+          "name": "פולי עליון צר פרונציה גב",
+          "youtubeUrls": ["https://youtu.be/q2PAYWt7Uxc"],
+          "description": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": ""
+        }
+      ],
+      "bodyPart": "גב",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/images%2Fback.png?alt=media&token=8171b8e9-0ce1-4053-b788-0000d5b281fa"
+    },
+    "AtPX1zJVTqpIdWJXrId2": {
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/images%2FTrapezius.jpg?alt=media&token=2db7f3cf-90fc-4f02-9da1-427b7185c05a",
+      "bodyPart": "טרפזים",
+      "exercises": [
+        {
+          "name": "הרמת שכמות פלוס מוט",
+          "category": "עליון",
+          "youtubeUrls": ["https://www.youtube.com/watch?v=FQhEgYHotz0"],
+          "firstYoutubeUrl": "https://www.youtube.com/watch?v=FQhEgYHotz0",
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%98%D7%A8%D7%A4%D7%96%D7%99%D7%9D%2Fthumbnail_%D7%94%D7%A8%D7%9E%D7%AA%20%D7%A9%D7%9B%D7%9E%D7%95%D7%AA%20%D7%A4%D7%9C%D7%95%D7%A1%20%D7%9E%D7%95%D7%98_1769660458302.jpg?alt=media&token=ec072cec-e89a-4ee3-958e-64632c397132",
+          "equipment": "",
+          "difficulty": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "description": ""
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/Y3THvV_PcnE",
+          "category": "עליון",
+          "name": "קירוב שכמות משקולות יד",
+          "youtubeUrls": ["https://youtube.com/shorts/Y3THvV_PcnE"],
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%98%D7%A8%D7%A4%D7%96%D7%99%D7%9D%2Fthumbnail_%D7%A7%D7%99%D7%A8%D7%95%D7%91%20%D7%A9%D7%9B%D7%9E%D7%95%D7%AA%20%D7%9E%D7%A9%D7%A7%D7%95%D7%9C%D7%95%D7%AA%20%D7%99%D7%93_1769660489219.jpg?alt=media&token=6f6d0655-fb6b-4ac8-af23-c9f5b79b7715",
+          "equipment": "",
+          "target": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "description": ""
+        }
+      ]
+    },
+    "H30ccqW87vxYpZwpssa2": {
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/images%2Fshoulders.png?alt=media&token=1f93cd13-bb86-4017-89cb-dd89b9c7ffca",
+      "bodyPart": "כתפיים",
+      "exercises": [
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/pepOvxvoZfc",
+          "category": "כתף אמצעי",
+          "name": "לחיצה כתפיים משקולות יד ",
+          "youtubeUrls": ["https://youtube.com/shorts/pepOvxvoZfc"],
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%9C%D7%97%D7%99%D7%A6%D7%94%20%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%20%D7%9E%D7%A9%D7%A7%D7%95%D7%9C%D7%95%D7%AA%20%D7%99%D7%93%20_1769658643024.jpg?alt=media&token=3a34f0c5-50a8-4e5c-a4f5-930e93097006",
+          "equipment": "משקולת",
+          "target": "שרירי הכתף",
+          "instructions": "שב על ספסל עם הגב ישר והרגליים שטוחות על הקרקע. אחוז במשקולת באחיזה עליונה, מעט רחבה יותר מרוחב הכתפיים. הרם את המשקולת מהמתלה והבא אותה לגובה הכתפיים, כשהמרפקים כפופים וכפות הידיים פונות קדימה. לחץ את המשקולת מעל הראש על ידי הושטת הזרועות במלואן. עצור לרגע בחלק העליון, ואז הורד לאט את המשקולת בחזרה לגובה הכתפיים. חזור על התרגיל למספר החזרות הרצוי",
+          "secondaryMuscles": "שרירי הזרוע האחוריים. שרירי הגב העליון.",
+          "difficulty": "בינוני",
+          "description": "הלחיצה מעל הראש בישיבה היא תרגיל כוח מורכב המכוון לשרירי הדלתואיד של הכתפיים. התרגיל מפעיל גם את השריר התלת-ראשי והגב העליון כשרירים משניים. תנועה זו מבוצעת בישיבה, מה שעוזר לייצב את הגוף התחתון ולמקד את המאמץ בגוף העליון. התרגיל דורש טכניקה נכונה וניידות כתף לביצוע בטוח ויעיל."
+        },
+        {
+          "description": "ההרמה הקדמית מעל הראש בעמידה היא תרגיל כתפיים המכוון לדלתואידים, עם דגש משני על השריר התלת-ראשי והגב העליון. התרגיל כולל הרמת משקולת מרמת הירך למעל הראש תוך עמידה, הדורש שליטה וכוח כתף.",
+          "difficulty": "בינוני",
+          "instructions": "עמוד עם הרגליים ברוחב הכתפיים, אוחז במשקולת מול הירכיים באחיזה עליונה. שמור על הגב ישר והפעל את הליבה. הרם לאט את המשקולת לפניך, תוך שמירה על הזרועות ישרות וכפות הידיים פונות כלפי מטה. המשך להרים עד שהמשקולת מעט מעל גובה הכתפיים. עצור לרגע בחלק העליון, ואז הורד לאט את המשקולת בחזרה למצב ההתחלתי. חזור על התרגיל למספר החזרות הרצוי",
+          "secondaryMuscles": "שרירי הזרוע האחוריים. שרירי הגב העליון.",
+          "target": "שרירי הכתף",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%94%D7%A8%D7%97%D7%A7%D7%AA%20%D7%9B%D7%AA%D7%A3_1769659172869.jpg?alt=media&token=51cd7c22-8f87-43c5-8031-817c3cd3e636",
+          "equipment": "משקולת",
+          "name": "הרחקת כתף",
+          "category": "כתף אמצעי",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/rgyIkHQ4_1U",
+            "https://youtube.com/shorts/QtBUcdT2UPw",
+            "https://youtube.com/shorts/naIRmBgy3NU"
+          ],
+          "firstYoutubeUrl": "https://youtube.com/shorts/rgyIkHQ4_1U"
+        },
+        {
+          "difficulty": "בינוני",
+          "secondaryMuscles": "טרפז עליון, דלתא קדמית",
+          "instructions": "עמוד זקוף עם משקולת בכל יד לצד הגוף. הרם את הזרועות הצידה עד גובה הכתפיים עם כיפוף קל במרפקים. החזק שנייה במצב העליון. הורד לאט חזרה למצב ההתחלה.",
+          "description": "תרגיל להרחקת הזרועות הצידה לפיתוח הדלתא האמצעית",
+          "category": "כתף אמצעי",
+          "name": "הרחקת כתפיים משקולות יד",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/e7v-F_SK958",
+            "https://youtube.com/shorts/ON5o_4Qs_sc"
+          ],
+          "firstYoutubeUrl": "https://youtube.com/shorts/e7v-F_SK958",
+          "target": "דלתא אמצעית",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%94%D7%A8%D7%97%D7%A7%D7%AA%20%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%20%D7%9E%D7%A9%D7%A7%D7%95%D7%9C%D7%95%D7%AA%20%D7%99%D7%93_1770597030158.jpg?alt=media&token=2118d88f-5d62-4c52-87f6-5d7ac5b02939",
+          "equipment": "משקולות"
+        },
+        {
+          "youtubeUrls": ["https://youtube.com/shorts/ZneyxzR1N00"],
+          "category": "כתף אמצעי",
+          "name": "לחיצת כתפיים מוט ",
+          "firstYoutubeUrl": "https://youtube.com/shorts/ZneyxzR1N00",
+          "target": "דלתא אמצעית וקדמית",
+          "equipment": "משקולות או מוט",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%9C%D7%97%D7%99%D7%A6%D7%AA%20%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%20%D7%9E%D7%95%D7%98%20_1770597299089.jpg?alt=media&token=5c204c7b-e9a4-4e57-9a20-241c0ee78599",
+          "difficulty": "בינוני",
+          "secondaryMuscles": "טריצפס, חזה עליון",
+          "instructions": "עמוד או שב זקוף עם המשקולות בגובה הכתפיים. דחף את המשקולות כלפי מעלה עד הרמת הזרועות במלואן. החזק שנייה בנקודה העליונה. הורד באופן מבוקר חזרה לגובה הכתפיים.",
+          "description": "תרגיל לחיצה עילית לחיזוק שרירי הכתפיים"
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/Mm-zstRR56E",
+          "name": "כתף אחורי כבלים ",
+          "category": "כתף אחורי",
+          "youtubeUrls": ["https://youtube.com/shorts/Mm-zstRR56E"],
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%9B%D7%AA%D7%A3%20%D7%90%D7%97%D7%95%D7%A8%D7%99%20%D7%9B%D7%91%D7%9C%D7%99%D7%9D%20_1770597480716.jpg?alt=media&token=b5b7c22f-e326-4aec-9174-6f15caad9aba",
+          "equipment": "כבל",
+          "target": "דלתא אחורית",
+          "secondaryMuscles": "גב עליון, טרפז",
+          "instructions": "עמוד מול מכונת הכבלים עם הידיות בגובה הכתפיים. משוך את הכבלים לצדדים ואחורה תוך שמירה על זרועות כמעט ישרות. כווץ את שרירי הכתף האחוריים. חזור באופן מבוקר למצב ההתחלה.",
+          "difficulty": "בינוני",
+          "description": "תרגיל בכבל לפיתוח הדלתא האחורית"
+        },
+        {
+          "youtubeUrls": ["https://youtube.com/shorts/o47KgLz4BDk"],
+          "name": "כתף קדמית כבל",
+          "category": "כתף אמצעי",
+          "firstYoutubeUrl": "https://youtube.com/shorts/o47KgLz4BDk",
+          "target": "דלתא קדמית",
+          "equipment": "כבל",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%9B%D7%AA%D7%A3%20%D7%A7%D7%93%D7%9E%D7%99%D7%AA%20%D7%9B%D7%91%D7%9C_1770926218116.jpg?alt=media&token=9aaf0185-440c-45e1-ae6e-7693e2d53b08",
+          "difficulty": "בינוני",
+          "secondaryMuscles": "חזה עליון, דלתא אמצעית",
+          "instructions": "עמוד עם הגב למכונת הכבלים והחזק את הידית מול הגוף. הרם את הכבל קדימה עד גובה הכתפיים תוך שמירה על הזרוע כמעט ישרה. החזק שנייה במצב העליון. הורד לאט למצב ההתחלה.",
+          "description": "תרגיל בכבל להרמה קדמית של הכתפיים"
+        },
+        {
+          "secondaryMuscles": "חזה עליון, דלתא אמצעית",
+          "instructions": "עמוד זקוף עם משקולת בכל יד מול הירכיים. הרם את המשקולות קדימה עד גובה הכתפיים עם זרועות כמעט ישרות. שמור על הליבה מהודקת. הורד באופן מבוקר למצב ההתחלה.",
+          "category": "כתף אחורי",
+          "name": "כתף קדמי משקולות יד",
+          "difficulty": "קל",
+          "description": "תרגיל הרמה קדמית במשקולות יד לפיתוח הדלתא הקדמית",
+          "equipment": "משקולות",
+          "target": "דלתא קדמית"
+        },
+        {
+          "secondaryMuscles": "גב עליון, טרפז תחתון",
+          "instructions": "התכופף קדימה בגובה המותניים עם הגב ישר והברכיים כפופות מעט. הרם את המשקולות הצידה ואחורה עד גובה הגב. כווץ את שרירי הכתף האחוריים. הורד באופן מבוקר למצב ההתחלה.",
+          "category": "כתף אחורי",
+          "name": "כתף אחורי משקולות יד",
+          "difficulty": "בינוני",
+          "description": "תרגיל למיקוד בדלתא האחורית באמצעות משקולות יד",
+          "equipment": "משקולות",
+          "target": "דלתא אחורית"
+        },
+        {
+          "secondaryMuscles": "טרפז עליון, ליבה",
+          "instructions": "עמוד זקוף עם קטלבל בכל יד לצד הגוף. הרם את הקטלבלים הצידה עד גובה הכתפיים. שמור על יציבות הגוף ותנועה מבוקרת. הורד לאט למצב ההתחלה.",
+          "difficulty": "בינוני",
+          "description": "תרגיל הרחקה צדדית בקטלבל לחיזוק הדלתא",
+          "firstYoutubeUrl": "https://youtube.com/shorts/GXsQEmn9jBE",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/GXsQEmn9jBE",
+            "https://youtube.com/shorts/TPjJMqrmBOQ"
+          ],
+          "name": "הרחקת כתף קטקטבל",
+          "category": "כתף אחורי",
+          "equipment": "קטלבל",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%94%D7%A8%D7%97%D7%A7%D7%AA%20%D7%9B%D7%AA%D7%A3%20%D7%A7%D7%98%D7%A7%D7%98%D7%91%D7%9C_1770597885250.jpg?alt=media&token=68048624-a711-4f53-b278-fdc63bdd59a1",
+          "target": "דלתא אמצעית"
+        },
+        {
+          "description": "תרגיל במכונה לפיתוח הדלתא האמצעית בתנועה מבוקרת",
+          "equipment": "מכונה",
+          "target": "דלתא אמצעית",
+          "instructions": "שב במכונה והחזק את הידיות בצדי הגוף. דחף את הידיות הצידה ומעלה עד שהזרועות במצב אופקי. החזק שנייה במצב העליון. הורד באופן מבוקר למצב ההתחלה.",
+          "secondaryMuscles": "טרפז עליון, דלתא קדמית",
+          "category": "כתף אחורי",
+          "name": "כתף אמצעי יד יד מכונה",
+          "difficulty": "קל"
+        },
+        {
+          "description": "",
+          "equipment": "",
+          "target": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "name": "כתף קדמי מוט",
+          "category": "כתף קדמי",
+          "difficulty": ""
+        },
+        {
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%94%D7%A8%D7%97%D7%A7%D7%AA%20%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%20%D7%9B%D7%91%D7%9C%D7%99%D7%9D%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%AA%D7%97%D7%AA%D7%95%D7%9F_1770598081792.jpg?alt=media&token=04b0d9d9-e637-4e9e-807c-9a0bf9bdb9b4",
+          "equipment": "",
+          "name": "הרחקת כתפיים כבלים פולי תחתון",
+          "category": "כתף קדמי",
+          "youtubeUrls": ["https://youtube.com/shorts/zRWnnqICNCo"],
+          "firstYoutubeUrl": "https://youtube.com/shorts/zRWnnqICNCo",
+          "description": "",
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": ""
+        },
+        {
+          "description": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%94%D7%A8%D7%97%D7%A7%D7%AA%20%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%20%D7%91%D7%99%D7%A9%D7%99%D7%91%D7%94_1770598236571.jpg?alt=media&token=eb2e0ca4-1da8-4b7b-bf2b-42e28d14089f",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/dxBKabz0zcU",
+          "youtubeUrls": ["https://youtube.com/shorts/dxBKabz0zcU"],
+          "name": "הרחקת כתפיים בישיבה",
+          "category": "כתף אמצעי"
+        },
+        {
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "description": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/GwMlDHFQlfU",
+          "name": "‏הרחקת כתף בישיבה",
+          "category": "כתף אמצעי",
+          "youtubeUrls": ["https://youtube.com/shorts/GwMlDHFQlfU"],
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%2Fthumbnail_%E2%80%8F%D7%94%D7%A8%D7%97%D7%A7%D7%AA%20%D7%9B%D7%AA%D7%A3%20%D7%91%D7%99%D7%A9%D7%99%D7%91%D7%94_1770598420635.jpg?alt=media&token=db1eefab-b90c-44e6-a668-fd16f18a740e",
+          "equipment": "",
+          "target": ""
+        },
+        {
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%2Fthumbnail_%E2%80%8F%D7%9B%D7%AA%D7%A3%20%D7%90%D7%97%D7%95%D7%A8%D7%99%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%A2%D7%9C%D7%99%D7%95%D7%9F_1770795311096.jpg?alt=media&token=5acd7563-f55c-4985-99a6-89edc5794222",
+          "equipment": "",
+          "name": "‏כתף אחורי פולי עליון",
+          "category": "כתף אחורי",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/XbRvUgvG1PE",
+            "https://youtube.com/shorts/QadseCYDHHU",
+            "https://youtube.com/shorts/XB9tZybZwBQ"
+          ],
+          "firstYoutubeUrl": "https://youtube.com/shorts/XbRvUgvG1PE",
+          "description": "",
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": ""
+        },
+        {
+          "difficulty": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "description": "",
+          "name": "‏הרחקת כתף אחורי מכונה",
+          "category": "כתף אחורי",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/K0eAeQxN9DM",
+            "https://youtube.com/shorts/MFll0hhNlpI"
+          ],
+          "firstYoutubeUrl": "https://youtube.com/shorts/K0eAeQxN9DM",
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%2Fthumbnail_%E2%80%8F%D7%94%D7%A8%D7%97%D7%A7%D7%AA%20%D7%9B%D7%AA%D7%A3%20%D7%90%D7%97%D7%95%D7%A8%D7%99%20%D7%9E%D7%9B%D7%95%D7%A0%D7%94_1770648680577.jpg?alt=media&token=ff879413-8ded-431f-b56d-7c82514b1f6a",
+          "equipment": ""
+        },
+        {
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "description": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/3vDZakuiu44",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/3vDZakuiu44",
+            "https://youtube.com/shorts/cSaMhyORB6g",
+            "https://youtube.com/shorts/_ifTT9R6eO0",
+            "https://youtube.com/shorts/PLQRi6NNmzM"
+          ],
+          "category": "כתף אמצעי",
+          "name": "הרחקת כתף קטלבל",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%9B%D7%AA%D7%A4%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%94%D7%A8%D7%97%D7%A7%D7%AA%20%D7%9B%D7%AA%D7%A3%20%D7%A7%D7%98%D7%9C%D7%91%D7%9C_1770926129281.jpg?alt=media&token=2592db4c-679d-4431-9de5-a62226948804",
+          "target": ""
+        }
+      ]
+    },
+    "NyytbJM0fzD6YFbVnP5V": {
+      "exercises": [
+        {
+          "description": "",
+          "secondaryMuscles": "תאומים",
+          "instructions": "",
+          "difficulty": "קל",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%9C%D7%90%D7%A0%D7%92'%D7%99%D7%9D%20%D7%91%D7%94%D7%97%D7%9C%D7%A4%D7%94%20%D7%A8%D7%92%D7%9C%20%D7%A8%D7%92%D7%9C_1770701940268.jpg?alt=media&token=a63fd43b-bd1c-44f3-9228-a4a9d381c7ad",
+          "equipment": "",
+          "target": "יריכיים",
+          "firstYoutubeUrl": "https://youtube.com/shorts/Nyj6PrFIqR8",
+          "name": "לאנג'ים בהחלפה רגל רגל",
+          "category": "ארבע ראשי",
+          "youtubeUrls": ["https://youtube.com/shorts/Nyj6PrFIqR8"]
+        },
+        {
+          "equipment": "",
+          "description": "",
+          "target": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "category": "ארבע ראשי",
+          "name": "פשיטת ברך"
+        },
+        {
+          "category": "ארבע ראשי",
+          "name": "כפיפת ברך",
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "target": "",
+          "description": "",
+          "equipment": ""
+        },
+        {
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%A1%D7%A7%D7%95%D7%95%D7%98%20%D7%9E%D7%9B%D7%95%D7%A0%D7%94_1770928931167.jpg?alt=media&token=21cad6b8-8486-4aaf-87b9-bb5366006d2e",
+          "equipment": "",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/xwL_S2EYAho",
+          "category": "אמסטרנג",
+          "name": "סקווט מכונה",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/xwL_S2EYAho",
+            "https://youtube.com/shorts/IOZ561MRKMc",
+            "https://youtube.com/shorts/csU-20xnoQU"
+          ],
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": ""
+        },
+        {
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%A1%D7%A7%D7%95%D7%95%D7%98%20%D7%A2%D7%9D%20%D7%9E%D7%A9%D7%A7%D7%9C_1770792976235.jpg?alt=media&token=ab7dc8a2-860a-4758-9c96-3a526a8a670f",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/b2uD4c4eD-s",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/b2uD4c4eD-s",
+            "https://youtube.com/shorts/7a13mnmJ628",
+            "https://youtube.com/shorts/HR-H49TfrHo"
+          ],
+          "name": "סקווט עם משקל",
+          "category": "אמסטרנג",
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": ""
+        },
+        {
+          "secondaryMuscles": "",
+          "instructions": "",
+          "category": "תאומים",
+          "name": "סקווט פלוס כתפיים",
+          "difficulty": "",
+          "description": "",
+          "equipment": "",
+          "target": ""
+        },
+        {
+          "equipment": "",
+          "description": "",
+          "target": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "name": "פרונט סקווט"
+        },
+        {
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "description": "",
+          "youtubeUrls": ["https://youtu.be/9R1xTmQbrss"],
+          "name": "כפיפת ברך בשכיבה עם משקל",
+          "category": "",
+          "firstYoutubeUrl": "https://youtu.be/9R1xTmQbrss",
+          "target": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%9B%D7%A4%D7%99%D7%A4%D7%AA%20%D7%91%D7%A8%D7%9A%20%D7%91%D7%A9%D7%9B%D7%99%D7%91%D7%94%20%D7%A2%D7%9D%20%D7%9E%D7%A9%D7%A7%D7%9C_1771828457104.jpg?alt=media&token=4aec4bba-4fd5-4196-9ae4-4fb009dc3422"
+        },
+        {
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "name": "כפיפת ברך מכונה",
+          "equipment": "",
+          "description": "",
+          "target": ""
+        },
+        {
+          "difficulty": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "description": "",
+          "name": "סטיף לג משקולות יד",
+          "category": "",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/RM0SxrhsbCg",
+            "https://youtube.com/shorts/1Cj-ZckJ4K8"
+          ],
+          "firstYoutubeUrl": "https://youtube.com/shorts/RM0SxrhsbCg",
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%A1%D7%98%D7%99%D7%A3%20%D7%9C%D7%92%20%D7%9E%D7%A9%D7%A7%D7%95%D7%9C%D7%95%D7%AA%20%D7%99%D7%93_1770791297235.jpg?alt=media&token=320dc7da-6a06-44e8-9237-c7c11e369018",
+          "equipment": ""
+        },
+        {
+          "description": "",
+          "equipment": "",
+          "target": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "name": "סטיף לג מוט",
+          "difficulty": ""
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/G5vBGdbR3xI",
+          "name": "סומו סקווט",
+          "category": "",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/G5vBGdbR3xI",
+            "https://youtube.com/shorts/4jTyKDT6-9s",
+            "https://youtube.com/shorts/A4Ibneq02Po"
+          ],
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%A1%D7%95%D7%9E%D7%95%20%D7%A1%D7%A7%D7%95%D7%95%D7%98_1770793095313.jpg?alt=media&token=5ac98cba-eb0c-4852-baa4-752c07e6778b",
+          "equipment": "",
+          "target": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "description": ""
+        },
+        {
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "name": "היפטרסט מכונה",
+          "equipment": "",
+          "description": "",
+          "target": ""
+        },
+        {
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "description": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/ucMjpnow0Nc",
+          "youtubeUrls": ["https://youtube.com/shorts/ucMjpnow0Nc"],
+          "name": "סטיף לג",
+          "category": "אמסטרנג",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%A1%D7%98%D7%99%D7%A3%20%D7%9C%D7%92_1770656631917.jpg?alt=media&token=a69d7f4e-f3ec-4159-b2da-94e24e6f92a0",
+          "target": ""
+        },
+        {
+          "target": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%A1%D7%A7%D7%95%D7%95%D7%98_1770791754492.jpg?alt=media&token=b4c496c4-de60-4a19-9682-4ef180c18e03",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/QIMtkV-mS6E",
+            "https://youtube.com/shorts/qYJCWB6AsqQ"
+          ],
+          "name": "סקווט",
+          "category": "ארבע ראשי",
+          "firstYoutubeUrl": "https://youtube.com/shorts/QIMtkV-mS6E",
+          "description": "",
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": ""
+        },
+        {
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%9E%D7%9B%D7%A8%D7%A2%D7%99%D7%99%D7%9D%20%D7%9E%D7%9B%D7%95%D7%A0%D7%94%20%D7%A1%D7%9E%D7%99%D7%98%20%D7%9E%D7%A9%D7%99%D7%99%D7%9F_1770657384834.jpg?alt=media&token=d55e2c7f-2b90-43e7-972e-04d7907cfb6b",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/JUIs-kS13_o",
+          "youtubeUrls": ["https://youtube.com/shorts/JUIs-kS13_o"],
+          "category": "ארבע ראשי",
+          "name": "מכרעיים מכונה סמיט משיין"
+        },
+        {
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%A1%D7%A7%D7%95%D7%95%D7%98%20%D7%A4%D7%9C%D7%95%D7%A1%20%D7%9E%D7%A9%D7%A7%D7%9C%20%D7%A7%D7%98%D7%9C%D7%91%D7%9C_1770657413794.jpg?alt=media&token=fd9f4b6f-137a-46d6-8179-b01f5db722ff",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/C93w-HpeVJo",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/C93w-HpeVJo",
+            "https://youtube.com/shorts/pMDXcrPbfzw"
+          ],
+          "name": "סקווט פלוס משקל קטלבל",
+          "category": "ארבע ראשי",
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": ""
+        },
+        {
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%9E%D7%9B%D7%A8%D7%A2%D7%99%D7%99%D7%9D%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%AA%D7%97%D7%AA%D7%95%D7%9F%20%D7%A8%D7%92%D7%9C%20%D7%A8%D7%92%D7%9C_1770928578489.jpg?alt=media&token=f816281c-05fd-462e-bc4e-894ad455f62f",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/eFb5bRAMmg4",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/eFb5bRAMmg4",
+            "https://youtube.com/shorts/_ZD3hmnDCCE"
+          ],
+          "category": "ארבע ראשי",
+          "name": "מכרעיים פולי תחתון רגל רגל",
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": ""
+        },
+        {
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%94%D7%A8%D7%9E%D7%AA%20%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%20%D7%AA%D7%90%D7%95%D7%9E%D7%99%D7%9D%20_1770657464945.jpg?alt=media&token=6d941a38-68c8-477d-8a91-c427e9fc9f8d",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/uT5qvqK6fpk",
+          "youtubeUrls": ["https://youtube.com/shorts/uT5qvqK6fpk"],
+          "name": "הרמת רגליים תאומים ",
+          "category": "תאומים",
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": ""
+        },
+        {
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%92%D7%A7%D7%A1%D7%95%D7%9F%20%D7%A1%D7%A7%D7%95%D7%95%D7%98%20%D7%91%D7%9E%D7%9B%D7%95%D7%A0%D7%94_1770928390451.jpg?alt=media&token=40e90ddd-d09e-4692-8335-467d99ecaa9d",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/IKU0lebnIW0",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/IKU0lebnIW0",
+            "https://youtube.com/shorts/-kRHlns3cz8"
+          ],
+          "category": "",
+          "name": "גקסון סקווט במכונה"
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/P87MTkzbsEs",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/P87MTkzbsEs",
+            "https://youtube.com/shorts/qGPM1kfnxSI",
+            "https://youtube.com/shorts/2aKcMMUN1So",
+            "https://youtube.com/shorts/5ora-zHYHLs"
+          ],
+          "category": "ארבע ראשי",
+          "name": "מכרע לאנג בולגרי",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%9E%D7%9B%D7%A8%D7%A2%20%D7%9C%D7%90%D7%A0%D7%92%20%D7%91%D7%95%D7%9C%D7%92%D7%A8%D7%99_1770928520837.jpg?alt=media&token=62f291c3-6d7c-40f3-9fbd-86e0e9c75f6d",
+          "target": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "description": ""
+        },
+        {
+          "name": "מכרעיים רגל רגל",
+          "category": "",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/iOuNEAiMJPo",
+            "https://youtube.com/shorts/0XM-7SH9hNg",
+            "https://youtube.com/shorts/staiTatBZT0",
+            "https://youtube.com/shorts/2i8HJsGzNGA"
+          ],
+          "firstYoutubeUrl": "https://youtube.com/shorts/iOuNEAiMJPo",
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%9E%D7%9B%D7%A8%D7%A2%D7%99%D7%99%D7%9D%20%D7%A8%D7%92%D7%9C%20%D7%A8%D7%92%D7%9C_1770928783597.jpg?alt=media&token=0dfca546-69b0-4d87-b949-82be588b340c",
+          "equipment": "",
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "description": ""
+        },
+        {
+          "description": "",
+          "difficulty": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "target": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%A1%D7%95%D7%9E%D7%95%20%D7%A1%D7%A7%D7%95%D7%95%D7%98%20%D7%A2%D7%9D%20%D7%9E%D7%A9%D7%A7%D7%9C_1770928859535.jpg?alt=media&token=8add6e9e-92da-407b-b203-122606e52a9c",
+          "youtubeUrls": ["https://youtube.com/shorts/COByXIHknRI"],
+          "category": "",
+          "name": "סומו סקווט עם משקל",
+          "firstYoutubeUrl": "https://youtube.com/shorts/COByXIHknRI"
+        },
+        {
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%A1%D7%A7%D7%95%D7%95%D7%98%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%AA%D7%97%D7%AA%D7%95%D7%9F_1770929004689.jpg?alt=media&token=8b0fc7bc-0f7a-42f7-80b5-98d10f6fa653",
+          "equipment": "",
+          "category": "",
+          "name": "סקווט פולי תחתון",
+          "youtubeUrls": ["https://youtube.com/shorts/C32kAxwpaZI"],
+          "firstYoutubeUrl": "https://youtube.com/shorts/C32kAxwpaZI",
+          "description": "",
+          "difficulty": "",
+          "secondaryMuscles": "",
+          "instructions": ""
+        }
+      ],
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/images%2FLegs.jpg?alt=media&token=5997e3a7-5da6-4b41-adb7-ebdf2941c134",
+      "bodyPart": "רגליים"
+    },
+    "UZqj95okvRJKy6PHuCiw": {
+      "exercises": [
+        {
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%9C%D7%97%D7%99%D7%A6%D7%AA%20%D7%97%D7%96%D7%94%20%D7%9E%D7%95%D7%98_1770794948475.jpg?alt=media&token=5c98084e-bfb3-4d25-b5b3-30f3e4a3f273",
+          "equipment": "",
+          "category": "אמצע",
+          "name": "לחיצת חזה מוט",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/v-ie9lsCH_k",
+            "https://youtube.com/shorts/yCKfGNwishw"
+          ],
+          "firstYoutubeUrl": "https://youtube.com/shorts/v-ie9lsCH_k",
+          "description": "",
+          "difficulty": "",
+          "secondaryMuscles": "",
+          "instructions": ""
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/gKQcdgvBi_E",
+          "youtubeUrls": ["https://youtube.com/shorts/gKQcdgvBi_E"],
+          "name": "פרפר פלייז חזה בעמידה ",
+          "category": "תחתון",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%A4%D7%A8%D7%A4%D7%A8%20%D7%A4%D7%9C%D7%99%D7%99%D7%96%20%D7%97%D7%96%D7%94%20%D7%91%D7%A2%D7%9E%D7%99%D7%93%D7%94%20_1770702198476.jpg?alt=media&token=3593c9f7-b246-463a-9862-606f6f4aeeb0",
+          "target": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "description": ""
+        },
+        {
+          "difficulty": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "description": "",
+          "name": "חזה עליון כבלים ",
+          "category": "חזה עליון",
+          "youtubeUrls": ["https://youtube.com/shorts/MfSfD6kPUOc"],
+          "firstYoutubeUrl": "https://youtube.com/shorts/MfSfD6kPUOc",
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%97%D7%96%D7%94%20%D7%A2%D7%9C%D7%99%D7%95%D7%9F%20%D7%9B%D7%91%D7%9C%D7%99%D7%9D%20_1770702251639.jpg?alt=media&token=883d6a1c-0177-4059-9763-cfaf7ed02b08",
+          "equipment": ""
+        },
+        {
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "description": "",
+          "category": "תחתון",
+          "name": "חזה תחתון כבל לחיצה ",
+          "youtubeUrls": ["https://youtube.com/shorts/4MhxV6CNy40"],
+          "firstYoutubeUrl": "https://youtube.com/shorts/4MhxV6CNy40",
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%97%D7%96%D7%94%20%D7%AA%D7%97%D7%AA%D7%95%D7%9F%20%D7%9B%D7%91%D7%9C%20%D7%9C%D7%97%D7%99%D7%A6%D7%94%20_1770702341625.jpg?alt=media&token=3d1cc683-6941-4ee4-a0a2-3b79807c9e7b",
+          "equipment": ""
+        },
+        {
+          "target": "",
+          "description": "",
+          "equipment": "",
+          "category": "תחתון",
+          "name": "חזה כבלים לחיצה",
+          "difficulty": "",
+          "secondaryMuscles": "",
+          "instructions": ""
+        },
+        {
+          "difficulty": "",
+          "category": "תחתון",
+          "name": "חזה עליון משקלות יד שיפוע חיובי",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "target": "",
+          "equipment": "",
+          "description": ""
+        },
+        {
+          "equipment": "",
+          "description": "",
+          "target": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "category": "תחתון",
+          "name": "חזה עליון שיפוע חיובי מוט"
+        },
+        {
+          "equipment": "משקולות יד",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%A4%D7%A8%D7%A4%D7%A8%20%D7%9E%D7%A9%D7%A7%D7%95%D7%9C%D7%95%D7%AA%20%D7%99%D7%93%20%D7%91%D7%A9%D7%9B%D7%99%D7%91%D7%94%20_1770702502250.jpg?alt=media&token=9a365e48-3adf-41bb-a7fe-6dacd1d3a3e1",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/tpV7vtov8l8",
+          "youtubeUrls": ["https://youtube.com/shorts/tpV7vtov8l8"],
+          "category": "חזה אמצע",
+          "name": "פרפר משקולות יד בשכיבה ",
+          "description": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "קשה"
+        },
+        {
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "description": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/GUxRSSHd1Zo",
+          "youtubeUrls": ["https://youtube.com/shorts/GUxRSSHd1Zo"],
+          "category": "חזה עליון",
+          "name": "פלייז חזה פולי תחתון כבלים",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%A4%D7%9C%D7%99%D7%99%D7%96%20%D7%97%D7%96%D7%94%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%AA%D7%97%D7%AA%D7%95%D7%9F%20%D7%9B%D7%91%D7%9C%D7%99%D7%9D_1770702553287.jpg?alt=media&token=beddadc2-36a2-4f48-9278-10545399609d",
+          "target": ""
+        },
+        {
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "description": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/MqaSgZaE2ac",
+          "youtubeUrls": ["https://youtube.com/shorts/MqaSgZaE2ac"],
+          "name": "לחיצת חזה משקולות יד דמבלים",
+          "category": "חזה אמצע",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%9C%D7%97%D7%99%D7%A6%D7%AA%20%D7%97%D7%96%D7%94%20%D7%9E%D7%A9%D7%A7%D7%95%D7%9C%D7%95%D7%AA%20%D7%99%D7%93%20%D7%93%D7%9E%D7%91%D7%9C%D7%99%D7%9D_1770702609541.jpg?alt=media&token=3983d2b1-6e91-48e6-a9bd-596ad8eeec6e",
+          "target": ""
+        },
+        {
+          "description": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%A4%D7%9C%D7%99%D7%99%D7%96%20%D7%97%D7%96%D7%94%20%D7%A2%D7%9C%D7%99%D7%95%D7%9F%20%D7%A6%D7%93%20%D7%A6%D7%93_1770702655393.jpg?alt=media&token=14fd36e4-33e4-4ccf-826d-4bcb2fc73045",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/6LEh__-pnrY",
+          "youtubeUrls": ["https://youtube.com/shorts/6LEh__-pnrY"],
+          "category": "",
+          "name": "פלייז חזה עליון צד צד"
+        },
+        {
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "description": "",
+          "name": "פלייז חזה עליון ספסל שיפוע חיובי",
+          "category": "חזה עליון",
+          "youtubeUrls": ["https://youtube.com/shorts/4ccOMJgw0D4"],
+          "firstYoutubeUrl": "https://youtube.com/shorts/4ccOMJgw0D4",
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%A4%D7%9C%D7%99%D7%99%D7%96%20%D7%97%D7%96%D7%94%20%D7%A2%D7%9C%D7%99%D7%95%D7%9F%20%D7%A1%D7%A4%D7%A1%D7%9C%20%D7%A9%D7%99%D7%A4%D7%95%D7%A2%20%D7%97%D7%99%D7%95%D7%91%D7%99_1770702750311.jpg?alt=media&token=86a70df9-cb7a-438f-86be-92317b4a123a",
+          "equipment": ""
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/dc5JyAQLgWs",
+          "category": "חזה אמצע",
+          "name": "לחיצת חזה משקולות יד",
+          "youtubeUrls": ["https://youtube.com/shorts/dc5JyAQLgWs"],
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%9C%D7%97%D7%99%D7%A6%D7%AA%20%D7%97%D7%96%D7%94%20%D7%9E%D7%A9%D7%A7%D7%95%D7%9C%D7%95%D7%AA%20%D7%99%D7%93_1770702822541.jpg?alt=media&token=ae08103f-51ef-440c-bbe8-c844b02e4c48",
+          "equipment": "",
+          "target": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "description": ""
+        },
+        {
+          "description": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%E2%80%8F%D7%A9%D7%9B%D7%99%D7%91%D7%95%D7%AA%20%D7%A9%D7%9E%D7%99%D7%9B%D7%94%20%D7%99%D7%94%D7%9C%D7%95%D7%9D_1770703012955.jpg?alt=media&token=ccbc79b3-f107-4c40-aa76-3fdf9b0b4b44",
+          "equipment": "",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/AgWj5z_R9P8",
+          "name": "‏שכיבות שמיכה יהלום",
+          "category": "חזה אמצע",
+          "youtubeUrls": ["https://youtube.com/shorts/AgWj5z_R9P8"]
+        },
+        {
+          "name": "פלייז חזה מכונה/פרפר מכונה",
+          "category": "חזה אמצע",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/9hsHg8SZ9RQ",
+            "https://youtube.com/shorts/cS6I5pVM2hA"
+          ],
+          "firstYoutubeUrl": "https://youtube.com/shorts/9hsHg8SZ9RQ",
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%A4%D7%9C%D7%99%D7%99%D7%96%20%D7%97%D7%96%D7%94%20%D7%9E%D7%9B%D7%95%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A4%D7%A8%20%D7%9E%D7%9B%D7%95%D7%A0%D7%94_1770703083478.jpg?alt=media&token=cd3063b6-425b-435b-8c16-df37738d0e4d",
+          "equipment": "",
+          "difficulty": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "description": ""
+        },
+        {
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "description": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/iqvXUoeLMSA",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/iqvXUoeLMSA",
+            "https://youtube.com/shorts/x8U7Ryn-Ky0"
+          ],
+          "category": "חזה אמצע",
+          "name": "לחיצות חזה בסמיט מכונה",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%9C%D7%97%D7%99%D7%A6%D7%95%D7%AA%20%D7%97%D7%96%D7%94%20%D7%91%D7%A1%D7%9E%D7%99%D7%98%20%D7%9E%D7%9B%D7%95%D7%A0%D7%94_1770794493153.jpg?alt=media&token=4b793873-3c52-4cc3-8ae9-8a88dae5c18c",
+          "target": ""
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/KZyMAQYDXxs",
+          "youtubeUrls": ["https://youtube.com/shorts/KZyMAQYDXxs"],
+          "name": "שכיבות שמיכה",
+          "category": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%A9%D7%9B%D7%99%D7%91%D7%95%D7%AA%20%D7%A9%D7%9E%D7%99%D7%9B%D7%94_1770903736327.jpg?alt=media&token=6451cd3d-da48-4b3c-abbf-ce2c9a2901a9",
+          "target": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "description": ""
+        },
+        {
+          "name": "שכיבות שמיכה רחבות",
+          "category": "",
+          "youtubeUrls": ["https://youtube.com/shorts/8Z8tK_XY8q0"],
+          "firstYoutubeUrl": "https://youtube.com/shorts/8Z8tK_XY8q0",
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%A9%D7%9B%D7%99%D7%91%D7%95%D7%AA%20%D7%A9%D7%9E%D7%99%D7%9B%D7%94%20%D7%A8%D7%97%D7%91%D7%95%D7%AA_1770903812389.jpg?alt=media&token=3459b44b-6c1b-408f-a72f-f2e32e047965",
+          "equipment": "",
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "description": ""
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/7ARDS6q85Rs",
+          "youtubeUrls": ["https://youtube.com/shorts/7ARDS6q85Rs"],
+          "category": "חזה אמצע",
+          "name": "כבלים פולי תחתון פרפר חזה אמצעי בישיבה 90 מעלות",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%9B%D7%91%D7%9C%D7%99%D7%9D%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%AA%D7%97%D7%AA%D7%95%D7%9F%20%D7%A4%D7%A8%D7%A4%D7%A8%20%D7%97%D7%96%D7%94%20%D7%90%D7%9E%D7%A6%D7%A2%D7%99%20%D7%91%D7%99%D7%A9%D7%99%D7%91%D7%94%2090%20%D7%9E%D7%A2%D7%9C%D7%95%D7%AA_1770923167511.jpg?alt=media&token=ac4baee4-3f0f-40c2-bd79-9cd4c2403175",
+          "target": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "description": ""
+        },
+        {
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "description": "",
+          "category": "חזה תחתון",
+          "name": "חזה תחתון פלייז כבלים פולי עליון 2",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/dtH95hCY5xw",
+            "https://youtube.com/shorts/od5K0fCPviI"
+          ],
+          "firstYoutubeUrl": "https://youtube.com/shorts/dtH95hCY5xw",
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%97%D7%96%D7%94%20%D7%AA%D7%97%D7%AA%D7%95%D7%9F%20%D7%A4%D7%9C%D7%99%D7%99%D7%96%20%D7%9B%D7%91%D7%9C%D7%99%D7%9D%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%A2%D7%9C%D7%99%D7%95%D7%9F%202_1770923354839.jpg?alt=media&token=2d2d141b-39f5-4775-a857-a2029990e6d0",
+          "equipment": ""
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/CBo0jgUFsN4",
+          "youtubeUrls": ["https://youtube.com/shorts/CBo0jgUFsN4"],
+          "category": "",
+          "name": "כבלים פולי תחתון פרפר פלייז חזה בישיבה",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%9B%D7%91%D7%9C%D7%99%D7%9D%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%AA%D7%97%D7%AA%D7%95%D7%9F%20%D7%A4%D7%A8%D7%A4%D7%A8%20%D7%A4%D7%9C%D7%99%D7%99%D7%96%20%D7%97%D7%96%D7%94%20%D7%91%D7%99%D7%A9%D7%99%D7%91%D7%94_1770923468257.jpg?alt=media&token=b4be892c-80c5-4f16-85ca-2d5ccbf96150",
+          "target": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "description": ""
+        },
+        {
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%9C%D7%97%D7%99%D7%A6%D7%AA%20%D7%90%D7%A8%D7%A0%D7%95%D7%9C%D7%93%20%D7%91%D7%99%D7%A9%D7%99%D7%91%D7%94_1770923535909.jpg?alt=media&token=30a6591a-3aca-44d7-84aa-c0e0eedd7452",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/15e83wboXng",
+          "youtubeUrls": ["https://youtube.com/shorts/15e83wboXng"],
+          "category": "",
+          "name": "לחיצת ארנולד בישיבה",
+          "description": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": ""
+        },
+        {
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "description": "",
+          "youtubeUrls": ["https://youtube.com/shorts/BfaDTIdtSOQ"],
+          "category": "",
+          "name": "לחיצת חזה בשיפוע חיובי",
+          "firstYoutubeUrl": "https://youtube.com/shorts/BfaDTIdtSOQ",
+          "target": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%9C%D7%97%D7%99%D7%A6%D7%AA%20%D7%97%D7%96%D7%94%20%D7%91%D7%A9%D7%99%D7%A4%D7%95%D7%A2%20%D7%97%D7%99%D7%95%D7%91%D7%99_1770923621139.jpg?alt=media&token=8c2716a9-f39a-49f8-b086-784f616943b2"
+        },
+        {
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%97%D7%96%D7%94%2Fthumbnail_%D7%A4%D7%9C%D7%99%D7%99%D7%96%20%D7%97%D7%96%D7%94%20%D7%A4%D7%A8%D7%A4%D7%A8%20%D7%A2%D7%9D%20%D7%9E%D7%A9%D7%A7%D7%95%D7%9C%D7%95%D7%AA%20%D7%99%D7%93%20%D7%91%D7%A9%D7%9B%D7%99%D7%91%D7%94_1770923694388.jpg?alt=media&token=e6946a17-9670-450c-b21f-2e236969c76a",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/I4KFMFkpZ6A",
+          "youtubeUrls": ["https://youtube.com/shorts/I4KFMFkpZ6A"],
+          "name": "פלייז חזה פרפר עם משקולות יד בשכיבה",
+          "category": ""
+        },
+        {
+          "equipment": "",
+          "target": "חזה",
+          "firstYoutubeUrl": "",
+          "category": "חזה עליון",
+          "name": "לחיצת חזה עליון בסמיט משיין שיפוע חיובי",
+          "youtubeUrls": [],
+          "description": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": ""
+        }
+      ],
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/images%2Fchest.png?alt=media&token=d850f3b8-67e2-4b22-bc80-b3601eeb2f53",
+      "bodyPart": "חזה"
+    },
+    "XEMOovNesbwvPcKvQP8O": {
+      "exercises": [
+        {
+          "equipment": "משקל גוף",
+          "description": "הסיט-אפ 3/4 הוא תרגיל בטן המבוצע עם משקל גוף. התרגיל כולל כיפוף הגו עד זווית של 45 מעלות, הפעלת שרירי הבטן, כיפוף הירך והמותניים. תנועה זו משמשת בדרך כלל לבניית כוח ויציבות ליבה.",
+          "target": "שרירי הבטן",
+          "secondaryMuscles": "שרירי כיפוף הירך. שרירי המותניים.",
+          "instructions": "שכב שטוח על הגב כשהברכיים כפופות והרגליים שטוחות על הקרקע. הנח את הידיים מאחורי הראש כשהמרפקים מופנים החוצה. תוך הפעלת שרירי הבטן, הרם לאט את הגוף העליון מהקרקע, כופף קדימה עד שהגו בזווית של 45 מעלות. עצור לרגע בחלק העליון, ואז הורד לאט את הגוף העליון בחזרה למצב ההתחלתי. חזור על התרגיל למספר החזרות הרצוי",
+          "difficulty": "מתחיל",
+          "category": "אמצע",
+          "name": "סיט-אפ 3/4"
+        },
+        {
+          "description": "הכיפוף הצדדי 45 מעלות הוא תרגיל משקל גוף המכוון לשרירי הבטן, במיוחד לשרירי הבטן הצדדיים. התרגיל כולל כיפוף הגו לצד תוך עמידה, הפעלת הליבה ליציבות ושליטה.",
+          "equipment": "משקל גוף",
+          "target": "שרירי הבטן",
+          "instructions": "עמוד עם הרגליים ברוחב הכתפיים והזרועות מושטות ישר למטה לצדדים. תוך שמירה על הגב ישר והליבה מופעלת, כופף לאט את הגו לצד אחד, הורד את היד לכיוון הברך. עצור לרגע בתחתית, ואז חזור לאט למצב ההתחלתי. חזור על הצד השני. המשך להחליף צדדים למספר החזרות הרצוי",
+          "secondaryMuscles": "שרירי הבטן הצדדיים.",
+          "name": "כיפוף צדדי 45 מעלות",
+          "category": "אמצע",
+          "difficulty": "מתחיל"
+        },
+        {
+          "secondaryMuscles": "שרירי כיפוף הירך.",
+          "instructions": "שכב שטוח על הגב עם הידיים מאחורי הראש. הרם את הרגליים מהקרקע וכופף את הברכיים בזווית של 90 מעלות. הבא את המרפק הימני לכיוון הברך השמאלית תוך יישור הרגל הימנית במקביל. חזור למצב ההתחלתי וחזור על התנועה בצד הנגדי, הבא את המרפק השמאלי לכיוון הברך הימנית תוך יישור הרגל השמאלית. המשך להחליף צדדים בתנועת דיווש למספר החזרות הרצוי",
+          "category": "אמצע",
+          "name": "אופניים באוויר",
+          "difficulty": "מתחיל",
+          "description": "האופניים באוויר הוא תרגיל משקל גוף המכוון לשרירי הבטן ושרירי כיפוף הירך. התרגיל כולל תנועת דיווש תוך שכיבה על הגב, החלפת מגע מרפק-לברך כדי להפעיל את הליבה.",
+          "equipment": "משקל גוף",
+          "target": "שרירי הבטן"
+        },
+        {
+          "difficulty": "מתקדם",
+          "category": "אמצע",
+          "name": "הרמת ברכיים תלויה בסיוע עם השלכה",
+          "secondaryMuscles": "שרירי כיפוף הירך. שרירי המותניים.",
+          "instructions": "תלוי על מוט מתח כשהזרועות מושטות במלואן וכפות הידיים פונות ממך. הפעל את הליבה והרם את הברכיים לכיוון החזה, תוך שמירה על הרגליים יחד. ברגע שהברכיים בגובה החזה, השלך בצורה נמרצת את הרגליים כלפי מטה לכיוון הקרקע, הושט אותן במלואן. אפשר לרגליים להתנדנד בחזרה למעלה וחזור על התנועה למספר החזרות הרצוי",
+          "target": "שרירי הבטן",
+          "equipment": "בסיוע",
+          "description": "הרמת הברכיים התלויה בסיוע עם השלכה היא תרגיל ליבה מתקדם המכוון לשרירי הבטן, עם מעורבות נוספת של שרירי כיפוף הירך והמותניים. התנועה כוללת תלייה על מוט מתח, הרמת הברכיים אל החזה ולאחר מכן השלכה נמרצת של הרגליים כלפי מטה, הדורש כוח ליבה משמעותי, תיאום ושליטה."
+        },
+        {
+          "name": "פיתול רוסי בתנועה בסיוע",
+          "category": "אלכסונים",
+          "difficulty": "מתחיל",
+          "instructions": "שב על הקרקע כשהברכיים כפופות והרגליים שטוחות על הרצפה. אחוז בכדור הרפואי בשתי הידיים מול החזה. רכן מעט לאחור, הפעל את שרירי הבטן ושמור על הגב ישר. סובב לאט את הגו לימין, הבא את הכדור הרפואי לכיוון הצד הימני של הגוף. עצור לרגע, ואז סובב את הגו לשמאל, הבא את הכדור הרפואי לכיוון הצד השמאלי של הגוף. המשך להחליף צדדים למספר החזרות הרצוי",
+          "secondaryMuscles": "שרירי הבטן הצדדיים. שרירי המותניים.",
+          "target": "שרירי הבטן",
+          "description": "הפיתול הרוסי בתנועה בסיוע הוא תרגיל ליבה המבוצע עם כדור רפואי. התרגיל מכוון לשרירי הבטן ומפעיל גם את שרירי הבטן הצדדיים והמותניים. התנועה כוללת סיבוב הגו מצד לצד תוך אחיזה בכדור רפואי, מה שמוסיף התנגדות ועוזר לבנות כוח ויציבות ליבה.",
+          "equipment": "כדור רפואי"
+        },
+        {
+          "difficulty": "מתקדם",
+          "category": "אלכסונים",
+          "name": "סיט-אפ עם לחיצת משקולת",
+          "instructions": "שכב שטוח על הגב על מזרן כשהברכיים כפופות והרגליים שטוחות על הקרקע. אחוז במשקולת באחיזה עליונה, השען אותה על החזה. תוך הפעלת שרירי הבטן, הרם לאט את הגוף העליון מהקרקע, כופף קדימה עד שהגו בזווית של 45 מעלות. עצור לרגע בחלק העליון, ואז הורד לאט את הגוף העליון בחזרה למצב ההתחלתי. חזור על התרגיל למספר החזרות הרצוי",
+          "secondaryMuscles": "שרירי הכתפיים. שרירי החזה.",
+          "target": "שרירי הבטן",
+          "equipment": "משקולת",
+          "description": "הסיט-אפ עם לחיצת משקולת הוא תרגיל בטן מתקדם המשלב סיט-אפ מסורתי עם לחיצת משקולת, המפעיל את שרירי הבטן, הכתפיים והחזה. התרגיל דורש כוח ליבה משמעותי, תיאום ואיזון ללחוץ את המשקולת בצורה בטוחה תוך ביצוע תנועת הסיט-אפ."
+        },
+        {
+          "difficulty": "קל",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "description": "",
+          "category": "",
+          "name": "‏הרמת רגליים אולרים",
+          "youtubeUrls": ["https://youtube.com/shorts/bkjXYIYxklw"],
+          "firstYoutubeUrl": "https://youtube.com/shorts/bkjXYIYxklw",
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%91%D7%98%D7%9F%2Fthumbnail_%E2%80%8F%D7%94%D7%A8%D7%9E%D7%AA%20%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D%20%D7%90%D7%95%D7%9C%D7%A8%D7%99%D7%9D_1770705911166.jpg?alt=media&token=5c033eaf-e815-4104-873c-bb85e3130730",
+          "equipment": ""
+        },
+        {
+          "category": "אמצע",
+          "name": "‏כפפות בטן + משקולת קטלבל",
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "target": "",
+          "description": "",
+          "equipment": ""
+        },
+        {
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%91%D7%98%D7%9F%2Fthumbnail_%D7%90%D7%99%D7%A9%20%D7%94%D7%91%D7%A8%D7%96%D7%9C_1770790196461.jpg?alt=media&token=1f416e7a-2df3-43cf-8f54-3b379a86df65",
+          "equipment": "משקל גוף",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/kbIhFUBY2jA",
+          "category": "אלכסונים",
+          "name": "איש הברזל",
+          "youtubeUrls": ["https://youtube.com/shorts/kbIhFUBY2jA"],
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "קל"
+        },
+        {
+          "description": "",
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "target": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%91%D7%98%D7%9F%2Fthumbnail_%D7%A4%D7%9C%D7%90%D7%A0%D7%A7_1770793422331.jpg?alt=media&token=a0b351ca-d08a-4ddd-b9ab-a42c2d9288f8",
+          "youtubeUrls": ["https://youtube.com/shorts/tFtgspDdHfI"],
+          "category": "אמצע",
+          "name": "פלאנק",
+          "firstYoutubeUrl": "https://youtube.com/shorts/tFtgspDdHfI"
+        },
+        {
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%91%D7%98%D7%9F%2Fthumbnail_%D7%9B%D7%A4%D7%99%D7%A4%D7%95%D7%AA%20%D7%91%D7%98%D7%9F%20%D7%A2%D7%9D%20%D7%9E%D7%A9%D7%A7%D7%95%D7%9C%D7%AA_1770901990388.jpg?alt=media&token=2544f1d9-bd73-4b30-895b-c95187d68b4e",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/fQ5J2CnCGX0",
+          "youtubeUrls": ["https://youtube.com/shorts/fQ5J2CnCGX0"],
+          "category": "",
+          "name": "כפיפות בטן עם משקולת"
+        }
+      ],
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/images%2Fwaist.png?alt=media&token=2d69416a-590a-4a90-88ec-d0050064c324",
+      "bodyPart": "בטן"
+    },
+    "liuBt91Lmj9hTZwPifvz": {
+      "exercises": [
+        {
+          "difficulty": "בינוני",
+          "name": "דדליפט",
+          "category": "כוח",
+          "instructions": "עמוד עם הרגליים ברוחב הכתפיים והמשקולת על הקרקע לפניך. כופף את הברכיים והתכופף בירכיים כדי להוריד את הגו ולאחוז במשקולת באחיזה עליונה, הידיים מעט רחבות יותר מרוחב הכתפיים. שמור על הגב ישר והחזה מורם כשאתה דוחף דרך העקבים כדי להרים את המשקולת מהקרקע, הושט את הירכיים והברכיים. כשאתה עומד זקוף, לחץ את העכוז ושמור על הליבה מופעלת. הורד את המשקולת בחזרה לקרקע על ידי כיפוף בירכיים ובברכיים, תוך שמירה על הגב ישר. חזור על התרגיל למספר החזרות הרצוי",
+          "secondaryMuscles": "שרירי הירך האחוריים. שרירי המותניים.",
+          "target": "שרירי העכוז",
+          "equipment": "משקולת",
+          "description": "ההרמה המתה עם משקולת היא תרגיל כוח מורכב המכוון לעכוז, לשרירי הירך האחוריים ולמותניים. התרגיל כולל הרמת משקולת עמוסה מהקרקע למצב עמידה, תוך הדגשת צורה נכונה ומעורבות ליבה."
+        },
+        {
+          "target": "שרירי העכוז",
+          "equipment": "משקולת",
+          "description": "הכפיפה הקדמית היא תרגיל מורכב לגוף התחתון המכוון לעכוז, לשרירי הירך הקדמיים והאחוריים, תוך מעורבות גם של הליבה ליציבות. המשקולת מוחזקת מול הכתפיים, הדורש ניידות וכוח ליבה טובים לשמירה על יציבה נכונה לאורך התנועה.",
+          "difficulty": "בינוני",
+          "name": "פרונט סקווט",
+          "category": "כוח",
+          "secondaryMuscles": "שרירי הירך הקדמיים. שרירי הירך האחוריים. שרירי השוק. שרירי הליבה.",
+          "instructions": "התחל בעמידה עם הרגליים ברוחב הכתפיים, האצבעות מעט מופנות החוצה. אחוז במשקולת מול הכתפיים, השען אותה על עצם הבריח והכתפיים. הפעל את הליבה ושמור על החזה למעלה כשאתה מוריד את גופך למצב כפיפה, דוחף את הירכיים לאחור וכופף את הברכיים. הורד עד שהירכיים מקבילות לקרקע, או נמוך ככל שאתה יכול בנוחות. עצור לרגע בתחתית, ואז דחוף דרך העקבים כדי לחזור למצב ההתחלתי. חזור על התרגיל למספר החזרות הרצוי"
+        },
+        {
+          "secondaryMuscles": "שרירי הירך הקדמיים. שרירי הירך האחוריים. שרירי השוק. שרירי הליבה.",
+          "instructions": "עמוד עם הרגליים ברוחב הכתפיים, האצבעות מעט מופנות החוצה. אחוז במשקולת על פני הגב העליון, השען אותה על הטרפז או הדלתואידים האחוריים. הפעל את הליבה ושמור על החזה למעלה כשאתה מתחיל להוריד את גופך. כופף את הברכיים והירכיים, דחף את הירכיים לאחור ולמטה כאילו יושב על כיסא. הורד את עצמך עד שהירכיים מקבילות לקרקע או מעט מתחת. שמור על הברכיים בקו עם האצבעות והמשקל בעקבים. דחוף דרך העקבים כדי לעמוד בחזרה, הושט את הירכיים והברכיים. חזור על התרגיל למספר החזרות הרצוי",
+          "name": "פרונט סקווט",
+          "category": "כוח",
+          "difficulty": "בינוני",
+          "description": "הכפיפה המלאה היא תרגיל מורכב לגוף התחתון המכוון לעכוז ופועל גם על שרירי הירך הקדמיים, האחוריים, השוק והליבה. התרגיל כולל כפיפה עם משקולת מונחת על הגב העליון, הדורש כוח, איזון וטכניקה נכונה.",
+          "equipment": "משקולת",
+          "target": "שרירי העכוז"
+        },
+        {
+          "description": "",
+          "equipment": "",
+          "target": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "category": "",
+          "name": "סקווט חופשי",
+          "difficulty": ""
+        },
+        {
+          "description": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "בינוני",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%A9%D7%91%D7%9F%2Fthumbnail_%D7%A1%D7%A7%D7%95%D7%95%D7%98%20%D7%A4%D7%9C%D7%95%D7%A1%20%D7%9E%D7%A9%D7%A7%D7%95%D7%9C%D7%AA_1770708864226.jpg?alt=media&token=30723fe4-e6cc-4158-8c62-e29584d4c02b",
+          "equipment": "",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/fhIJiCMQ6d8",
+          "name": "סקווט פלוס משקולת",
+          "category": "רגליים",
+          "youtubeUrls": ["https://youtube.com/shorts/fhIJiCMQ6d8"]
+        },
+        {
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%A9%D7%91%D7%9F%2Fthumbnail_%D7%94%D7%A8%D7%97%D7%A7%D7%AA%20%D7%99%D7%A9%D7%91%D7%9F%20%D7%A8%D7%92%D7%9C%20%D7%A8%D7%92%D7%9C_1770925927336.jpg?alt=media&token=68b90d98-7a6c-42b9-9ca5-acdd252f4069",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/34hYZuuJw4I",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/34hYZuuJw4I",
+            "https://youtube.com/shorts/0JiXV9xDRzY",
+            "https://youtube.com/shorts/wfiRLq5HEag"
+          ],
+          "name": "הרחקת ישבן רגל רגל",
+          "category": "עליון",
+          "description": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": ""
+        },
+        {
+          "description": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%A9%D7%91%D7%9F%2Fthumbnail_%D7%A1%D7%A7%D7%95%D7%95%D7%98_1770709179478.jpg?alt=media&token=98cec56e-5a91-4451-a3aa-089286027811",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/QIMtkV-mS6E",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/QIMtkV-mS6E",
+            "https://youtube.com/shorts/8MzpJS1cxw4"
+          ],
+          "category": "רגליים",
+          "name": "סקווט"
+        },
+        {
+          "description": "",
+          "difficulty": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "target": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%A9%D7%91%D7%9F%2Fthumbnail_%D7%94%D7%A8%D7%97%D7%A7%D7%AA%20%D7%99%D7%A9%D7%91%D7%9F%20%D7%A8%D7%92%D7%9C%20%D7%9E%D7%9C%D7%A4%D7%A0%D7%99%D7%9D_1770709239675.jpg?alt=media&token=54ebbcfe-be62-4776-ae6a-9ca3cb86c1d4",
+          "youtubeUrls": ["https://youtube.com/shorts/DgC5tE3znVY"],
+          "name": "הרחקת ישבן רגל מלפנים",
+          "category": "אמצע",
+          "firstYoutubeUrl": "https://youtube.com/shorts/DgC5tE3znVY"
+        },
+        {
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%A9%D7%91%D7%9F%2Fthumbnail_%D7%9E%D7%9B%D7%A8%D7%A2%D7%99%D7%99%D7%9D%20%D7%9C%D7%90%D7%A0%D7%92%E2%80%99%D7%99%D7%9D_1770709359360.jpg?alt=media&token=bd123608-37b6-4194-8002-59ea09308306",
+          "equipment": "",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/TtNszEu2pfU",
+          "name": "מכרעיים לאנג’ים",
+          "category": "רגליים",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/TtNszEu2pfU",
+            "https://youtube.com/shorts/r3E42W3Z2-k"
+          ],
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": ""
+        },
+        {
+          "difficulty": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "description": "",
+          "category": "אמצע",
+          "name": "הרחקת ישבן כבל מכונה רגל רגל",
+          "youtubeUrls": ["https://youtube.com/shorts/oMprKqFUT5E"],
+          "firstYoutubeUrl": "https://youtube.com/shorts/oMprKqFUT5E",
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%A9%D7%91%D7%9F%2Fthumbnail_%D7%94%D7%A8%D7%97%D7%A7%D7%AA%20%D7%99%D7%A9%D7%91%D7%9F%20%D7%9B%D7%91%D7%9C%20%D7%9E%D7%9B%D7%95%D7%A0%D7%94%20%D7%A8%D7%92%D7%9C%20%D7%A8%D7%92%D7%9C_1770709425562.jpg?alt=media&token=04d4dd0e-fc02-4f87-a99c-941965273031",
+          "equipment": ""
+        }
+      ],
+      "bodyPart": "ישבן",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/images%2FupperLegs.png?alt=media&token=64604cdc-c891-47c9-9776-5fc233cb203b"
+    },
+    "m3h0HwfN6YYbeJ45oKC2": {
+      "exercises": [
+        {
+          "equipment": "משקולות",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%E2%80%8F%20%E2%80%8F%D7%9B%D7%A4%D7%99%D7%A4%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%D7%99%D7%9D%20%D7%A2%D7%9D%20%D7%9E%D7%A9%D7%A7%D7%95%D7%9C%D7%95%D7%AA%20%D7%99%D7%93_1770713264231.jpg?alt=media&token=2abd6470-fa62-47a2-885b-bce106a2c2c1",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/rPyOU9DVz_M",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/rPyOU9DVz_M",
+            "https://youtube.com/shorts/rPyOU9DVz_M"
+          ],
+          "category": "יד קדמית",
+          "name": "‏ ‏כפיפת מרפקים עם משקולות יד",
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "בינוני"
+        },
+        {
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "בינוני",
+          "equipment": "פולי תחתון",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%E2%80%8F%D7%A4%D7%A9%D7%99%D7%98%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%D7%99%D7%9D%20%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99%20%D7%94%D7%A8%D7%90%D7%A9%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%AA%D7%97%D7%AA%D7%95%D7%9F_1770713354910.jpg?alt=media&token=c8247182-d011-4fbe-beb0-db0d6eaecb8f",
+          "target": "טריספס",
+          "firstYoutubeUrl": "https://youtube.com/shorts/Tsv9zlzxS3w",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/Tsv9zlzxS3w",
+            "https://youtube.com/shorts/N8ih3qIPvKU",
+            "https://youtube.com/shorts/tt6h1h443tg"
+          ],
+          "name": "‏פשיטת מרפקים מאחורי הראש פולי תחתון",
+          "category": "יד אחורית"
+        },
+        {
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%99%D7%93%20%D7%A7%D7%93%D7%9E%D7%99%D7%AA%20%D7%9E%D7%95%D7%98_1770713577672.jpg?alt=media&token=32bd3c95-23d0-409d-95a7-7fe67104faf1",
+          "equipment": "",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/ANqgkw2BGug",
+          "name": "יד קדמית מוט",
+          "category": "יד קדמית",
+          "youtubeUrls": ["https://youtube.com/shorts/ANqgkw2BGug"],
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": ""
+        },
+        {
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "description": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/ZV_v73IypEI",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/ZV_v73IypEI",
+            "https://youtube.com/shorts/QHIhAAjeRVw"
+          ],
+          "category": "יד קדמית",
+          "name": "‏כפיפת מרפק פולי תחתון יד יד",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%E2%80%8F%D7%9B%D7%A4%D7%99%D7%A4%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%AA%D7%97%D7%AA%D7%95%D7%9F%20%D7%99%D7%93%20%D7%99%D7%93_1770923895495.jpg?alt=media&token=8168c643-1a28-47db-a558-d93e38b08883",
+          "target": ""
+        },
+        {
+          "description": "",
+          "difficulty": "קל",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%9B%D7%A4%D7%99%D7%A4%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%D7%99%D7%9D%20%D7%9E%D7%A9%D7%A7%D7%95%D7%9C%D7%95%D7%AA%20%D7%99%D7%93_1770713708296.jpg?alt=media&token=e385206e-a17d-423b-a1c1-9f555163fed3",
+          "equipment": "‏משקולות יד",
+          "name": "כפיפת מרפקים משקולות יד",
+          "category": "יד קדמית",
+          "youtubeUrls": ["https://youtube.com/shorts/-i-YMrFy4NE"],
+          "firstYoutubeUrl": "https://youtube.com/shorts/-i-YMrFy4NE"
+        },
+        {
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "description": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/9AVZneZTtlE",
+          "name": "‏פשיטת מרפקים כבלים מפולי",
+          "category": "יד אחורית",
+          "youtubeUrls": ["https://youtube.com/shorts/9AVZneZTtlE"],
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%E2%80%8F%D7%A4%D7%A9%D7%99%D7%98%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%D7%99%D7%9D%20%D7%9B%D7%91%D7%9C%D7%99%D7%9D%20%D7%9E%D7%A4%D7%95%D7%9C%D7%99_1770713756126.jpg?alt=media&token=30a9bb47-5c7b-4df3-b5a0-fbe36d3e75b7",
+          "equipment": "",
+          "target": ""
+        },
+        {
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "description": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/PLmSmQ1bNdI",
+          "category": "יד קדמית",
+          "name": "‏כפיפת מרפק פולי תחתון",
+          "youtubeUrls": ["https://youtube.com/shorts/PLmSmQ1bNdI"],
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%E2%80%8F%D7%9B%D7%A4%D7%99%D7%A4%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%AA%D7%97%D7%AA%D7%95%D7%9F_1770713813392.jpg?alt=media&token=e82b6187-0ae7-4770-8ca0-fef6dc59fd2c",
+          "equipment": "",
+          "target": ""
+        },
+        {
+          "firstYoutubeUrl": "https://youtube.com/shorts/LOb3ws5icvI",
+          "category": "יד קדמית",
+          "name": "‏כפפת מרפקים פולי תחתון מרפקים אחורה",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/LOb3ws5icvI",
+            "https://youtube.com/shorts/gMsbpuUFrkg"
+          ],
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%E2%80%8F%D7%9B%D7%A4%D7%A4%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%D7%99%D7%9D%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%AA%D7%97%D7%AA%D7%95%D7%9F%20%D7%9E%D7%A8%D7%A4%D7%A7%D7%99%D7%9D%20%D7%90%D7%97%D7%95%D7%A8%D7%94_1770924574969.jpg?alt=media&token=c426ccac-ce69-413d-b810-aee6376a7b32",
+          "equipment": "",
+          "target": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "description": ""
+        },
+        {
+          "description": "",
+          "difficulty": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "target": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%E2%80%8F%D7%9B%D7%A4%D7%99%D7%A4%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%D7%99%D7%9D%20%D7%9B%D7%91%D7%9C%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%AA%D7%97%D7%AA%D7%95%D7%9F_1770713909636.jpg?alt=media&token=65c043e6-7c77-494f-bd0e-345fa6bfd700",
+          "youtubeUrls": ["https://youtube.com/shorts/MIHrZHrxK9o"],
+          "name": "‏כפיפת מרפקים כבל פולי תחתון",
+          "category": "יד קדמית",
+          "firstYoutubeUrl": "https://youtube.com/shorts/MIHrZHrxK9o"
+        },
+        {
+          "description": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%E2%80%8F%D7%A4%D7%A9%D7%99%D7%98%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%D7%99%D7%9D%20%D7%9B%D7%91%D7%9C%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%A2%D7%9C%D7%99%D7%95%D7%9F_1770714021461.jpg?alt=media&token=dfc07ba1-32f1-4b26-88ce-e7781bb80a0a",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/Vtaszdhi5L4",
+          "youtubeUrls": ["https://youtube.com/shorts/Vtaszdhi5L4"],
+          "category": "יד אחורית",
+          "name": "‏פשיטת מרפקים כבל פולי עליון"
+        },
+        {
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%E2%80%8F%D7%9B%D7%A4%D7%99%D7%A4%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%D7%99%D7%9D%20%D7%93%D7%90%D7%9E%D7%91%D7%9C%D7%99%D7%9D%20%D7%A4%D7%98%D7%99%D7%A9%D7%99%D7%9D_1770924349203.jpg?alt=media&token=4941e59a-3d93-431d-bc90-8bbcd70631f1",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/M-ZQ9fFgoyQ",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/M-ZQ9fFgoyQ",
+            "https://youtube.com/shorts/C_y2v9VvBbM",
+            "https://youtube.com/shorts/0MRGuyNRv84"
+          ],
+          "category": "יד קדמית",
+          "name": "‏כפיפת מרפקים דאמבלים פטישים",
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": ""
+        },
+        {
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%92%D7%A7%D7%A1%D7%95%D7%9F%20%D7%99%D7%93%20%D7%90%D7%97%D7%95%D7%A8%D7%99%D7%AA_1770923769149.jpg?alt=media&token=1a4cdc4a-2ec0-406a-96e1-22cb8c3b4d80",
+          "equipment": "",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/N-kQJWcfTWQ",
+          "category": "יד אחורית",
+          "name": "גקסון יד אחורית",
+          "youtubeUrls": ["https://youtube.com/shorts/N-kQJWcfTWQ"],
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": ""
+        },
+        {
+          "category": "",
+          "name": "כפיפת מרפקים בישיבה פולי תחתון כבלים",
+          "youtubeUrls": ["https://youtube.com/shorts/pdiZ67_kfU8"],
+          "firstYoutubeUrl": "https://youtube.com/shorts/pdiZ67_kfU8",
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%9B%D7%A4%D7%99%D7%A4%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%D7%99%D7%9D%20%D7%91%D7%99%D7%A9%D7%99%D7%91%D7%94%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%AA%D7%97%D7%AA%D7%95%D7%9F%20%D7%9B%D7%91%D7%9C%D7%99%D7%9D_1770924028346.jpg?alt=media&token=575daa49-9f8c-427d-b578-bc53c60f7ec4",
+          "equipment": "",
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "description": ""
+        },
+        {
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%9B%D7%A4%D7%99%D7%A4%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%D7%99%D7%9D%20%D7%93%D7%90%D7%9E%D7%91%D7%9C%D7%99%D7%9D%20%D7%A1%D7%95%D7%A4%D7%99%D7%A0%D7%A6%D7%99%D7%94_1770924204844.jpg?alt=media&token=abb3c561-3266-4b70-840f-0cd55d29cfbf",
+          "equipment": "",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/uLn42a1qi0c",
+          "category": "",
+          "name": "כפיפת מרפקים דאמבלים סופינציה",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/uLn42a1qi0c",
+            "https://youtube.com/shorts/Ed9Ot7hOh9E",
+            "https://youtube.com/shorts/RxX2XGKEdts",
+            "https://youtube.com/shorts/RxX2XGKEdts"
+          ],
+          "description": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "difficulty": ""
+        },
+        {
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "description": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/T6sXp3_e7wQ",
+          "category": "",
+          "name": "כפיפת מרפקים דאמבלים פרונציה",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/T6sXp3_e7wQ",
+            "https://youtube.com/shorts/ysNWNlbPcQc"
+          ],
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%9B%D7%A4%D7%99%D7%A4%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%D7%99%D7%9D%20%D7%93%D7%90%D7%9E%D7%91%D7%9C%D7%99%D7%9D%20%D7%A4%D7%A8%D7%95%D7%A0%D7%A6%D7%99%D7%94_1770924477695.jpg?alt=media&token=048ea6fa-6b0b-4515-bd50-bea99a586070",
+          "equipment": "",
+          "target": ""
+        },
+        {
+          "category": "",
+          "name": "סנטצ יד יד",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/ROXEvpQuZtM",
+            "https://youtube.com/shorts/tJTQTs8OKW4"
+          ],
+          "firstYoutubeUrl": "https://youtube.com/shorts/ROXEvpQuZtM",
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%A1%D7%A0%D7%98%D7%A6%20%D7%99%D7%93%20%D7%99%D7%93_1770924658334.jpg?alt=media&token=5ce59282-9b8b-4f2c-89bb-d45d6cd5d407",
+          "equipment": "",
+          "difficulty": "",
+          "secondaryMuscles": "",
+          "instructions": "",
+          "description": ""
+        },
+        {
+          "description": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "difficulty": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%A4%D7%A9%D7%99%D7%98%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%20%D7%99%D7%93_1770924741619.jpg?alt=media&token=f8c660d8-9b90-4ad6-b96c-3786403e685e",
+          "equipment": "",
+          "target": "",
+          "firstYoutubeUrl": "https://youtube.com/shorts/5mjKOwbgMkg",
+          "name": "פשיטת מרפק יד",
+          "category": "",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/5mjKOwbgMkg",
+            "https://youtube.com/shorts/Vf6KCr-qD7Q"
+          ]
+        },
+        {
+          "target": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%A4%D7%A9%D7%99%D7%98%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%D7%99%D7%9D%20%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99%20%D7%94%D7%A8%D7%90%D7%A9%20%D7%9E%D7%95%D7%98_1770924873471.jpg?alt=media&token=cfe9bf07-8127-4433-bc0d-1a275abb7b5b",
+          "equipment": "",
+          "category": "",
+          "name": "פשיטת מרפקים מאחורי הראש מוט",
+          "youtubeUrls": [
+            "https://youtube.com/shorts/EsEGEsviP3Q",
+            "https://youtube.com/shorts/GdLU0z8NbNM"
+          ],
+          "firstYoutubeUrl": "https://youtube.com/shorts/EsEGEsviP3Q",
+          "description": "",
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": ""
+        },
+        {
+          "description": "",
+          "difficulty": "",
+          "instructions": "",
+          "secondaryMuscles": "",
+          "target": "",
+          "equipment": "",
+          "youtubeThumbnail": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/thumbnails%2F%D7%99%D7%93%D7%99%D7%99%D7%9D%2Fthumbnail_%D7%A4%D7%A9%D7%99%D7%98%D7%AA%20%D7%9E%D7%A8%D7%A4%D7%A7%D7%99%D7%9D%20%D7%9E%D7%95%D7%98%20%D7%A4%D7%95%D7%9C%D7%99%20%D7%A2%D7%9C%D7%99%D7%95%D7%9F_1770924938498.jpg?alt=media&token=43eeb79a-8a5e-46a0-82bc-64191138edbf",
+          "youtubeUrls": ["https://youtube.com/shorts/asae7h8Ske8"],
+          "category": "",
+          "name": "פשיטת מרפקים מוט פולי עליון",
+          "firstYoutubeUrl": "https://youtube.com/shorts/asae7h8Ske8"
+        }
+      ],
+      "bodyPart": "ידיים",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/images%2FupperArms.png?alt=media&token=dac7c28b-7338-4ede-8e1d-f98448576cae"
+    },
+    "rACnibL3Ov8fzDqjSUXs": {
+      "exercises": [
+        {
+          "difficulty": "מתקדם",
+          "category": "קרדיו",
+          "name": "ברפי ג'ק",
+          "instructions": "התחל בעמידה עם הרגליים ברוחב הכתפיים. הורד את גופך למצב כפיפה, תוך הנחת הידיים על הקרקע לפניך. בעט את הרגליים לאחור, נחיתה במצב שכיבת סמיכה. בצע שכיבת סמיכה, הורדת החזה לקרקע ולאחר מכן דחיפה בחזרה למעלה. קפוץ עם הרגליים קדימה, נחיתה במצב כפיפה. קפוץ למעלה בצורה נמרצת, הושט את הזרועות מעל הראש. נחת בעדינות ומיד חזור למצב כפיפה להתחלת החזרה הבאה",
+          "secondaryMuscles": "שרירי הירך הקדמיים. שרירי הירך האחוריים. שרירי השוק. שרירי הכתפיים. שרירי הזרוע האחוריים. שרירי הליבה.",
+          "target": "מערכת הלב וכלי הדם",
+          "equipment": "משקל גוף",
+          "description": "ברפי ג'ק הוא תרגיל בעצימות גבוהה לכל הגוף המשלב כפיפה, שכיבת סמיכה וקפיצה כדי להעלות את קצב הלב ולשפר את הכושר הקרדיווסקולרי תוך מעורבות של קבוצות שרירים מרובות."
+        },
+        {
+          "target": "מערכת הלב וכלי הדם",
+          "equipment": "משקל גוף",
+          "description": "מטפסי הרים הם תרגיל דינמי במשקל גוף המכוון למערכת הלב וכלי הדם תוך מעורבות הליבה, הכתפיים והשריר התלת-ראשי. התנועה מחקה תנועת ריצה במצב פלאנק, מה שהופך אותה יעילה גם לקרדיו וגם לסיבולת שרירית.",
+          "difficulty": "מתחיל",
+          "name": "מטפס הרים",
+          "category": "קרדיו",
+          "instructions": "התחל במצב פלאנק גבוה כשהידיים ישירות מתחת לכתפיים והגוף בקו ישר. הפעל את שרירי הליבה והבא את הברך הימנית לכיוון החזה, ולאחר מכן החלף במהירות והבא את הברך השמאלית לכיוון החזה. המשך להחליף רגליים בתנועת ריצה, תוך שמירה על הירכיים נמוכות והליבה מופעלת. שמור על קצב יציב ונשום באופן שווה לאורך התרגיל. חזור על התרגיל למספר החזרות הרצוי",
+          "secondaryMuscles": "שרירי הליבה. שרירי הכתפיים. שרירי הזרוע האחוריים."
+        },
+        {
+          "equipment": "משקל גוף",
+          "description": "ריצה במקום היא תרגיל קרדיווסקולרי שמעלה את קצב הלב ומשפר את הסיבולת הכללית. התרגיל אינו דורש ציוד וניתן לבצע אותו בכל מקום, מה שהופך אותו נגיש לרוב רמות הכושר.",
+          "target": "מערכת הלב וכלי הדם",
+          "instructions": "התחל בעמידה זקופה עם הרגליים ברוחב הירכיים. הפעל את הליבה ושמור על החלק העליון של הגוף רגוע. התחל לרוץ במקום, הרם את הברכיים לכיוון החזה ונחת בעדינות על כדורי הרגליים. שמור על קצב יציב והמשך לרוץ למשך הזמן או המרחק הרצוי. זכור לנשום עמוק ולשמור על יציבה טובה לאורך התרגיל",
+          "secondaryMuscles": "שרירי הירך הקדמיים. שרירי הירך האחוריים. שרירי השוק.",
+          "difficulty": "מתחיל",
+          "category": "קרדיו",
+          "name": "ריצה (עם ציוד)"
+        },
+        {
+          "secondaryMuscles": "שרירי הירך הקדמיים. שרירי הירך האחוריים. שרירי השוק.",
+          "instructions": "התחל בעמידה זקופה עם הרגליים ברוחב הירכיים. הפעל את הליבה ושמור על החלק העליון של הגוף רגוע. התחל לרוץ במקום, הרם את הברכיים לכיוון החזה ונחת בעדינות על כדורי הרגליים. שמור על קצב יציב והמשך לרוץ למשך הזמן או המרחק הרצוי. זכור לנשום עמוק ולשמור על יציבה טובה לאורך התרגיל",
+          "category": "קרדיו",
+          "name": "ריצה",
+          "difficulty": "מתחיל",
+          "description": "ריצה היא תרגיל קרדיווסקולרי בסיסי הכולל ריצה או ריצה קלה במקום או על פני מרחק. התרגיל מכוון בעיקר למערכת הלב וכלי הדם ומפעיל גם את שרירי הגוף התחתון.",
+          "equipment": "משקל גוף",
+          "target": "מערכת הלב וכלי הדם"
+        },
+        {
+          "category": "קרדיו",
+          "name": "הליכה על אופניים נייחים",
+          "difficulty": "מתחיל",
+          "secondaryMuscles": "שרירי הירך הקדמיים. שרירי הירך האחוריים. שרירי השוק.",
+          "instructions": "התאם את גובה ומיקום המושב על האופניים הנייחים כדי להבטיח יישור נכון. הנח את הרגליים על הדוושות ואבטח אותן עם הרצועות אם קיימות. התחל לדווש בקצב נוח, תוך שמירה על הגב ישר והליבה מופעלת. שמור על קצב יציב והגבר את רמת ההתנגדות אם רצוי. המשך לדווש למשך הזמן הרצוי של אימון הקרדיו. התקרר על ידי הפחתה הדרגתית של הקצב ורמת ההתנגדות. מתח את שרירי הרגליים לאחר האימון כדי למנוע מתיחות ולקדם התאוששות",
+          "target": "מערכת הלב וכלי הדם",
+          "description": "ההליכה על אופניים נייחים היא תרגיל קרדיווסקולרי המבוצע על מכונת מינוף (אופניים נייחים). התרגיל מכוון בעיקר למערכת הלב וכלי הדם ומפעיל גם את שרירי הירך הקדמיים, שרירי הירך האחוריים ושרירי השוק. התרגיל כולל דיווש בקצב יציב, עם אפשרות להתאמת התנגדות להגברת העצימות.",
+          "equipment": "מכונת מינוף"
+        },
+        {
+          "secondaryMuscles": "שרירי הירך הקדמיים. שרירי הירך האחוריים. שרירי השוק. שרירי הכתפיים. שרירי החזה.",
+          "instructions": "התחל בעמידה עם הרגליים ברוחב הכתפיים. הורד את גופך למצב כפיפה על ידי כיפוף הברכיים והנחת הידיים על הרצפה לפניך. בעט את הרגליים לאחור למצב שכיבת סמיכה. בצע שכיבת סמיכה, תוך שמירה על הגוף בקו ישר. קפוץ עם הרגליים בחזרה למצב כפיפה. קפוץ למעלה בצורה נמרצת, הושט את הזרועות מעל הראש. נחת בעדינות ומיד חזור למצב כפיפה להתחלת החזרה הבאה",
+          "name": "ברפי",
+          "category": "קרדיו",
+          "difficulty": "בינוני",
+          "description": "הברפי הוא תרגיל לכל הגוף המשלב כפיפה, שכיבת סמיכה וקפיצה כדי להעלות את קצב הלב ולבנות כוח וסיבולת.",
+          "equipment": "משקל גוף",
+          "target": "מערכת הלב וכלי הדם"
+        },
+        {
+          "target": "מערכת הלב וכלי הדם",
+          "description": "ברפי המשקולות הוא תרגיל לכל הגוף המשלב כפיפה, שכיבת סמיכה ולחיצה מעל הראש באמצעות משקולות. התרגיל מכוון למערכת הלב וכלי הדם תוך מעורבות של קבוצות שרירים מרובות, כולל הרגליים, הכתפיים, השריר התלת-ראשי והליבה.",
+          "equipment": "משקולת יד",
+          "category": "קרדיו",
+          "name": "ברפי עם משקולות יד",
+          "difficulty": "מתקדם",
+          "instructions": "התחל בעמידה עם הרגליים ברוחב הכתפיים ומשקולת יד בכל יד. הורד את גופך למצב כפיפה, הנח את המשקולות על הקרקע לפניך. בעט את הרגליים לאחור למצב שכיבת סמיכה, תוך שמירה על הגוף בקו ישר. בצע שכיבת סמיכה, כופף את המרפקים והורד את החזה לכיוון הקרקע. קפוץ עם הרגליים בחזרה לכיוון הידיים, נחיתה במצב כפיפה. עמוד בצורה נמרצת, הרם את המשקולות מהקרקע והבא אותן אל הכתפיים. לחץ את המשקולות מעל הראש, הושט את הזרועות במלואן. הורד את המשקולות בחזרה אל הכתפיים וחזור על כל הרצף למספר החזרות הרצוי",
+          "secondaryMuscles": "שרירי הירך הקדמיים. שרירי הירך האחוריים. שרירי השוק. שרירי הכתפיים. שרירי הזרוע האחוריים. שרירי הליבה."
+        },
+        {
+          "equipment": "אופניים נייחים",
+          "description": "הריצה על אופניים נייחים גרסה 3 היא תרגיל קרדיווסקולרי המבוצע על אופניים נייחים. התרגיל מכוון בעיקר למערכת הלב וכלי הדם ומפעיל גם את שרירי הירך הקדמיים, שרירי הירך האחוריים ושרירי השוק. התרגיל כולל דיווש בקצב יציב, התאמת התנגדות לפי הצורך ושמירה על יציבה נכונה לאורך האימון.",
+          "target": "מערכת הלב וכלי הדם",
+          "secondaryMuscles": "שרירי הירך הקדמיים. שרירי הירך האחוריים. שרירי השוק.",
+          "instructions": "התאם את גובה ומיקום המושב כדי להבטיח יישור נכון. הנח את הרגליים על הדוושות ואבטח אותן עם הרצועות אם קיימות. התחל לדווש בקצב נוח. שמור על קצב יציב והגבר את ההתנגדות לפי הצורך. הפעל את שרירי הליבה כדי לשמור על יציבות ויציבה נכונה. המשך לדווש למשך הזמן הרצוי של האימון. הפחת בהדרגה את ההתנגדות והאט לפני שתעצור לחלוטין. מתח את הרגליים והתקרר לאחר האימון",
+          "difficulty": "מתחיל",
+          "name": "ריצה על אופניים נייחים גרסה 3",
+          "category": "קרדיו"
+        },
+        {
+          "target": "מערכת הלב וכלי הדם",
+          "equipment": "מכונת אליפטית",
+          "description": "ההליכה על אליפטית היא תרגיל קרדיווסקולרי המבוצע על מכונת אליפטית. התרגיל מדמה תנועת הליכה או ריצה עם פגיעה נמוכה במפרקים, מה שהופך אותו מתאים למגוון רחב של רמות כושר. התרגיל מכוון למערכת הלב וכלי הדם תוך מעורבות שרירי הירך הקדמיים, שרירי הירך האחוריים, העכוז והשוק.",
+          "difficulty": "מתחיל",
+          "category": "קרדיו",
+          "name": "הליכה על אליפטית",
+          "secondaryMuscles": "שרירי הירך הקדמיים. שרירי הירך האחוריים. שרירי העכוז. שרירי השוק.",
+          "instructions": "התאם את רמת ההתנגדות והשיפוע של מכונת האליפטית להגדרות הרצויות. עלה על הדוושות של המכונה ואחוז בידיות בקלילות. התחל על ידי דחיפה למטה עם הרגליים ומשיכת הידיות לכיוון הגוף. המשך בתנועה זו, החלף בין דחיפה למשיכה, כדי לדמות תנועת הליכה או ריצה. שמור על קצב יציב והפעל את הליבה לאורך התרגיל. המשך למשך הזמן הרצוי של אימון הקרדיו. הפחת בהדרגה את העצימות והמהירות של המכונה לפני הירידה"
+        },
+        {
+          "secondaryMuscles": "שרירי הירך הקדמיים. שרירי הירך האחוריים. שרירי העכוז. שרירי השוק.",
+          "instructions": "התאם את מכונת המדרגות לרמה נוחה. עלה על המכונה והנח את הידיים על מעקות התמיכה. התחל ללכת על ידי הצבת רגל אחת על מדרגה ולאחר מכן השנייה, החלף בין הרגליים. שמור על יציבה זקופה והפעל את שרירי הליבה. המשך ללכת למשך הזמן או המרחק הרצוי. הגבר בהדרגה את העצימות או המהירות ככל שתהיה נוח יותר עם התרגיל. זכור להתקרר ולהימתח לאחר השלמת התרגיל",
+          "difficulty": "מתחיל",
+          "category": "קרדיו",
+          "name": "הליכה על מכונת מדרגות",
+          "equipment": "מכונת מדרגות",
+          "description": "הליכה על מכונת מדרגות היא תרגיל קרדיווסקולרי המבוצע על מכונה המדמה טיפוס במדרגות. התרגיל מכוון בעיקר למערכת הלב וכלי הדם תוך מעורבות שרירי הגוף התחתון.",
+          "target": "מערכת הלב וכלי הדם"
+        }
+      ],
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fitness-36d82.firebasestorage.app/o/images%2Fcardio.png?alt=media&token=1ab137b8-1e85-4a9c-8fea-11639d2b9c72",
+      "bodyPart": "קרדיו"
+    }
+  }
+}
